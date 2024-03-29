@@ -1,4 +1,4 @@
-# Project Overview: Tibia Combat Spreadsheet
+# Project Overview: Tibia Combat Spreadsheet - CharBazaar
 
 This project offers an innovative approach to analyzing a player's progression in Tibia by leveraging data extracted from their bestiary kills. It streamlines the process of generating a detailed spreadsheet that combines the player's kill counts with a comprehensive database of creatures from the game. This analysis allows players to visualize their advancement and strategic engagement with various mobs.
 
