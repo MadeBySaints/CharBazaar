@@ -1,0 +1,1898 @@
+List of Creatures by Experience to Hit Points Ratio (1896)
+Name		Exp	HP	Exp/HP Ratio
+Rotworm	Rotworm	40	65	0.615
+Wolf	Wolf	18	25	0.72
+Rabbit	Rabbit	0	15	0
+Stone Golem	Stone Golem	160	270	0.593
+Badger	Badger	5	23	0.217
+Bear	Bear	23	80	0.288
+Cave Rat	Cave Rat	10	30	0.333
+Hyaena	Hyaena	20	60	0.333
+Lion	Lion	30	80	0.375
+Pig	Pig	0	25	0
+Polar Bear	Polar Bear	28	85	0.329
+Skunk	Skunk	3	20	0.15
+Winter Wolf	Winter Wolf	20	30	0.667
+Flamingo	Flamingo	0	25	0
+Parrot	Parrot	0	25	0
+Panda	Panda	23	80	0.288
+Spit Nettle	Spit Nettle	20	150	0.133
+Crab	Crab	30	55	0.545
+Tiger	Tiger	40	75	0.533
+Terror Bird	Terror Bird	150	300	0.5
+Crocodile	Crocodile	40	105	0.381
+Chicken	Chicken	0	15	0
+Bat	Bat	10	30	0.333
+Elephant	Elephant	160	320	0.5
+Blood Crab	Blood Crab	160	290	0.552
+Carrion Worm	Carrion Worm	70	145	0.483
+Seagull	Seagull	0	25	0
+Tortoise	Tortoise	90	185	0.486
+Mammoth	Mammoth	160	320	0.5
+Magicthrower	Magicthrower	18	100	0.18
+Deathslicer	Deathslicer	0	8,200	0
+Plaguethrower	Plaguethrower	18	100	0.18
+Serpent Spawn	Serpent Spawn	3,050	3,000	1.017
+Yeti	Yeti	460	950	0.484
+Frost Troll	Frost Troll	23	55	0.418
+Vampire	Vampire	305	475	0.642
+Minotaur Mage	Minotaur Mage	150	155	0.968
+Minotaur	Minotaur	50	100	0.5
+Minotaur Archer	Minotaur Archer	65	100	0.65
+Minotaur Guard	Minotaur Guard	160	185	0.865
+Amazon	Amazon	60	110	0.545
+Ashmunrah	Ashmunrah	3,100	5,000	0.62
+Priestess	Priestess	420	390	1.077
+Stalker	Stalker	90	120	0.75
+Thornback Tortoise	Thornback Tortoise	150	300	0.5
+Valkyrie	Valkyrie	85	190	0.447
+Dwarf Guard	Dwarf Guard	165	245	0.673
+Elf	Elf	42	100	0.42
+Lich	Lich	900	880	1.023
+Dwarf Soldier	Dwarf Soldier	70	135	0.519
+Bug	Bug	18	29	0.621
+Elf Scout	Elf Scout	75	160	0.469
+Swamp Troll	Swamp Troll	25	55	0.455
+Goblin	Goblin	25	50	0.5
+Poison Spider	Poison Spider	22	26	0.846
+Ghoul	Ghoul	85	100	0.85
+Scarab	Scarab	120	320	0.375
+Larva	Larva	44	70	0.629
+Scorpion	Scorpion	45	45	1
+Snake	Snake	10	15	0.667
+Orc Leader	Orc Leader	270	450	0.6
+Orc Rider	Orc Rider	110	180	0.611
+Orc Shaman	Orc Shaman	110	115	0.957
+Orc Berserker	Orc Berserker	195	210	0.929
+Orc Spearman	Orc Spearman	38	105	0.362
+Orc Warlord	Orc Warlord	670	950	0.705
+Orc Warrior	Orc Warrior	50	125	0.4
+Demon Skeleton	Demon Skeleton	240	400	0.6
+Skeleton	Skeleton	35	50	0.7
+Quara Pincher	Quara Pincher	1,500	1,800	0.833
+Wild Warrior	Wild Warrior	60	135	0.444
+Wasp	Wasp	24	35	0.686
+Bonebeast	Bonebeast	580	515	1.126
+Crypt Shambler	Crypt Shambler	195	330	0.591
+Grorlam	Grorlam	2,400	3,000	0.8
+Centipede	Centipede	34	70	0.486
+Gargoyle	Gargoyle	150	250	0.6
+Ghost	Ghost	120	150	0.8
+Mummy	Mummy	150	240	0.625
+Dipthrah	Dipthrah	2,900	4,200	0.69
+Mahrdis	Mahrdis	3,050	3,900	0.782
+Vashresamun	Vashresamun	2,950	4,000	0.738
+Adept of the Cult	Adept of the Cult	400	430	0.93
+Efreet	Efreet	410	550	0.745
+Thalas	Thalas	2,950	4,100	0.72
+Rahemos	Rahemos	3,100	3,700	0.838
+Gazer	Gazer	90	120	0.75
+Bandit	Bandit	65	245	0.265
+Smuggler	Smuggler	48	130	0.369
+Lizard Snakecharmer	Lizard Snakecharmer	210	325	0.646
+Butterfly (Purple)	Butterfly (Purple)	0	2	0
+Pirate Cutthroat	Pirate Cutthroat	175	325	0.538
+Sibang	Sibang	105	225	0.467
+Kongra	Kongra	115	340	0.338
+Quara Pincher Scout	Quara Pincher Scout	600	775	0.774
+Merlkin	Merlkin	145	235	0.617
+Lizard Sentinel	Lizard Sentinel	110	265	0.415
+Dworc Fleshhunter	Dworc Fleshhunter	40	85	0.471
+Azure Frog	Azure Frog	20	60	0.333
+Coral Frog	Coral Frog	20	60	0.333
+Acolyte of the Cult	Acolyte of the Cult	300	390	0.769
+Enlightened of the Cult	Enlightened of the Cult	500	700	0.714
+Novice of the Cult	Novice of the Cult	100	285	0.351
+Pirate Buccaneer	Pirate Buccaneer	250	425	0.588
+Pirate Corsair	Pirate Corsair	350	675	0.519
+Pirate Ghost	Pirate Ghost	250	275	0.909
+Pirate Marauder	Pirate Marauder	125	210	0.595
+Pirate Skeleton	Pirate Skeleton	85	190	0.447
+Quara Hydromancer	Quara Hydromancer	950	1,100	0.864
+Quara Predator Scout	Quara Predator Scout	400	890	0.449
+Quara Mantassin	Quara Mantassin	600	800	0.75
+Toad	Toad	60	135	0.444
+Water Elemental	Water Elemental	650	550	1.182
+Massive Water Elemental	Massive Water Elemental	1,100	1,250	0.88
+Island Troll	Island Troll	20	50	0.4
+Orchid Frog	Orchid Frog	20	60	0.333
+Crimson Frog	Crimson Frog	20	60	0.333
+Green Frog	Green Frog	0	25	0
+Thul	Thul	2,700	2,950	0.915
+Quara Mantassin Scout	Quara Mantassin Scout	100	220	0.455
+Quara Hydromancer Scout	Quara Hydromancer Scout	800	1,100	0.727
+Fernfang	Fernfang	600	400	1.5
+Hand of Cursed Fate	Hand of Cursed Fate	5,000	6,600	0.758
+Phantasm	Phantasm	4,400	3,950	1.114
+Son of Verminor	Son of Verminor	5,900	8,500	0.694
+Dwarf Geomancer	Dwarf Geomancer	265	380	0.697
+Apprentice Sheng	Apprentice Sheng	150	95	1.579
+Wyvern	Wyvern	515	795	0.648
+Munster	Munster	35	58	0.603
+Flamethrower	Flamethrower	18	100	0.18
+The Evil Eye	The Evil Eye	750	1,200	0.625
+The Horned Fox	The Horned Fox	300	265	1.132
+The Old Widow	The Old Widow	4,200	3,200	1.313
+Brutus Bloodbeard	Brutus Bloodbeard	795	1,555	0.511
+Deadeye Devious	Deadeye Devious	750	1,450	0.517
+General Murius	General Murius	450	550	0.818
+Lethal Lissy	Lethal Lissy	500	1,450	0.345
+Ron the Ripper	Ron the Ripper	500	1,500	0.333
+Tiquandas Revenge	Tiquandas Revenge	2,635	1,800	1.464
+Lavahole	Lavahole	--	--	?
+Demon (Goblin)	Demon (Goblin)	25	50	0.5
+The Handmaiden	The Handmaiden	7,500	19,500	0.385
+Magic Pillar	Magic Pillar	--	--	?
+Witch	Witch	120	300	0.4
+Webster	Webster	1,200	2,950	0.407
+Spirit of Water	Spirit of Water	850	1,400	0.607
+Norgle Glacierbeard	Norgle Glacierbeard	2,100	4,280	0.491
+Spirit of Earth	Spirit of Earth	800	1,200	0.667
+Slim	Slim	580	1,025	0.566
+Kreebosh the Exile	Kreebosh the Exile	350	705	0.496
+The Dark Dancer	The Dark Dancer	435	805	0.54
+The Hag	The Hag	510	935	0.545
+Deathbringer	Deathbringer	5,100	8,440	0.604
+Darakan the Executioner	Darakan the Executioner	1,600	3,480	0.46
+Grimgor Guteater	Grimgor Guteater	670	1,155	0.58
+Drasilla	Drasilla	700	1,260	0.556
+Orcus the Cruel	Orcus the Cruel	280	480	0.583
+Svoren the Mad	Svoren the Mad	3,000	6,310	0.475
+Fallen Mooh'Tah Master Ghar	Fallen Mooh'Tah Master Ghar	4,400	7,990	0.551
+Quara Constrictor	Quara Constrictor	380	450	0.844
+Orc	Orc	25	70	0.357
+Elf Arcanist	Elf Arcanist	175	220	0.795
+Cat	Cat	0	20	0
+Squirrel	Squirrel	0	20	0
+Poacher	Poacher	70	90	0.778
+Troll Champion	Troll Champion	40	75	0.533
+Cyclops Drone	Cyclops Drone	200	325	0.615
+Cyclops Smith	Cyclops Smith	255	435	0.586
+Dark Magician	Dark Magician	185	325	0.569
+Dark Apprentice	Dark Apprentice	100	225	0.444
+Mechanical Fighter	Mechanical Fighter	255	420	0.607
+Dwarf Henchman	Dwarf Henchman	15	350	0.043
+Thief (Creature)	Thief (Creature)	5	60	0.083
+Assassin	Assassin	105	175	0.6
+Mad Technomancer	Mad Technomancer	55	1,800	0.031
+Koshei the Deathless	Koshei the Deathless	0	3,000	0
+Kitty	Kitty	--	--	?
+Slime	Slime	160	150	1.067
+Fire Devil	Fire Devil	145	200	0.725
+Dwarf Dispenser	Dwarf Dispenser	--	--	?
+Dworc Voodoomaster	Dworc Voodoomaster	55	80	0.688
+Nomad (Basic)	Nomad (Basic)	60	160	0.375
+Dryad	Dryad	190	310	0.613
+Goblin Assassin	Goblin Assassin	52	75	0.693
+Rotworm Queen	Rotworm Queen	75	105	0.714
+Massive Energy Elemental	Massive Energy Elemental	950	1,100	0.864
+Eye of the Seven	Eye of the Seven	0	120	0
+Skeleton Warrior	Skeleton Warrior	45	65	0.692
+Ungreez	Ungreez	500	8,200	0.061
+Massive Fire Elemental	Massive Fire Elemental	1,400	1,800	0.778
+Wisp	Wisp	0	115	0
+Overcharged Energy Element	Overcharged Energy Element	1,300	1,200	1.083
+Zugurosh	Zugurosh	10,000	90,500	0.11
+Massive Earth Elemental	Massive Earth Elemental	950	1,330	0.714
+Golgordan	Golgordan	10,000	40,000	0.25
+Latrivan	Latrivan	10,000	25,000	0.4
+Young Sea Serpent	Young Sea Serpent	1,000	1,050	0.952
+Roaring Water Elemental	Roaring Water Elemental	1,300	1,750	0.743
+Jagged Earth Elemental	Jagged Earth Elemental	1,300	1,500	0.867
+Dwarf Miner	Dwarf Miner	60	120	0.5
+Charged Energy Elemental	Charged Energy Elemental	450	500	0.9
+Blazing Fire Elemental	Blazing Fire Elemental	450	650	0.692
+Sir Valorcrest	Sir Valorcrest	1,800	1,600	1.125
+Goblin Scavenger	Goblin Scavenger	37	60	0.617
+Lord of the Elements	Lord of the Elements	8,000	8,000	1
+The Weakened Count	The Weakened Count	450	740	0.608
+Energy Overlord	Energy Overlord	2,800	4,000	0.7
+Smuggler Baron Silvertoe	Smuggler Baron Silvertoe	170	280	0.607
+Earth Overlord	Earth Overlord	2,800	4,000	0.7
+Fire Overlord	Fire Overlord	2,800	4,000	0.7
+Arachir the Ancient One	Arachir the Ancient One	1,800	1,600	1.125
+Big Boss Trolliver	Big Boss Trolliver	105	140	0.75
+Ice Overlord	Ice Overlord	2,800	4,000	0.7
+High Templar Cobrass	High Templar Cobrass	515	410	1.256
+The Big Bad One	The Big Bad One	170	300	0.567
+Xenia	Xenia	255	200	1.275
+Zevelon Duskbringer	Zevelon Duskbringer	1,800	1,400	1.286
+Slick Water Elemental	Slick Water Elemental	450	550	0.818
+Barbaria	Barbaria	355	345	1.029
+Diblis the Fair	Diblis the Fair	1,800	1,500	1.2
+The Frog Prince	The Frog Prince	1	55	0.018
+Warlord Ruzad	Warlord Ruzad	1,700	1,500	1.133
+Zarabustor	Zarabustor	8,000	5,100	1.569
+Stonecracker	Stonecracker	3,500	6,500	0.538
+Hell Hole	Hell Hole	0	120	0
+Hero	Hero	1,200	1,400	0.857
+The Old Whopper	The Old Whopper	750	785	0.955
+Pillar	Pillar	--	--	?
+The Count	The Count	450	1,250	0.36
+Foreman Kneebiter	Foreman Kneebiter	445	570	0.781
+Hairman the Huge	Hairman the Huge	335	600	0.558
+The Imperor	The Imperor	8,000	15,000	0.533
+Chakoya Windcaller	Chakoya Windcaller	48	84	0.571
+Chakoya Toolshaper	Chakoya Toolshaper	40	80	0.5
+Chakoya Tribewarden	Chakoya Tribewarden	40	68	0.588
+Frostfur	Frostfur	35	65	0.538
+Bloodpaw	Bloodpaw	50	100	0.5
+Bovinus	Bovinus	60	150	0.4
+Achad	Achad	70	185	0.378
+Colerian the Barbarian	Colerian the Barbarian	90	265	0.34
+The Hairy One	The Hairy One	115	325	0.354
+Axeitus Headbanger	Axeitus Headbanger	140	365	0.384
+Rocky	Rocky	190	390	0.487
+Avalanche (Creature)	Avalanche (Creature)	305	550	0.555
+Cursed Gladiator	Cursed Gladiator	215	435	0.494
+The Pit Lord	The Pit Lord	2,500	5,270	0.474
+Crystal Spider	Crystal Spider	900	1,250	0.72
+Barbarian Bloodwalker	Barbarian Bloodwalker	195	305	0.639
+Penguin	Penguin	1	33	0.03
+The Masked Marauder	The Masked Marauder	3,500	7,320	0.478
+Ushuriel	Ushuriel	10,000	31,500	0.317
+Barbarian Headsplitter	Barbarian Headsplitter	85	100	0.85
+Barbarian Skullhunter	Barbarian Skullhunter	85	135	0.63
+Barbarian Brutetamer	Barbarian Brutetamer	90	145	0.621
+The Obliverator	The Obliverator	6,000	9,020	0.665
+Spirit of Fire	Spirit of Fire	950	2,210	0.43
+Braindeath	Braindeath	985	1,225	0.804
+Dire Penguin	Dire Penguin	119	173	0.688
+Ice Golem	Ice Golem	295	385	0.766
+Frost Giant	Frost Giant	150	270	0.556
+Silver Rabbit	Silver Rabbit	0	15	0
+Mutated Human	Mutated Human	150	240	0.625
+Mercury Blob	Mercury Blob	180	150	1.2
+Mad Scientist	Mad Scientist	205	325	0.631
+Gladiator	Gladiator	90	185	0.486
+Gang Member	Gang Member	70	295	0.237
+Damaged Worker Golem	Damaged Worker Golem	95	260	0.365
+Mutated Rat	Mutated Rat	450	550	0.818
+Mutated Tiger	Mutated Tiger	750	1,100	0.682
+Nightstalker	Nightstalker	500	700	0.714
+Nightmare Scion	Nightmare Scion	1,350	1,400	0.964
+Undead Gladiator	Undead Gladiator	800	1,000	0.8
+War Golem	War Golem	2,310	4,300	0.537
+Death Blob	Death Blob	300	320	0.938
+Frost Giantess	Frost Giantess	150	275	0.545
+Rift Brood	Rift Brood	1,600	2,950	0.542
+Rift Scythe	Rift Scythe	2,000	3,600	0.556
+Rift Worm	Rift Worm	1,195	2,800	0.427
+Marziel	Marziel	3,000	1,900	1.579
+Lersatio	Lersatio	2,500	1,645	1.52
+Morik the Gladiator	Morik the Gladiator	160	1,235	0.13
+Sharptooth	Sharptooth	3,000	3,100	0.968
+Inky	Inky	700	750	0.933
+Splasher	Splasher	1,500	1,700	0.882
+Yalahari (Creature)	Yalahari (Creature)	5	150	0.033
+Diseased Bill	Diseased Bill	300	1,000	0.3
+Diseased Dan	Diseased Dan	300	800	0.375
+Diseased Fred	Diseased Fred	300	1,100	0.273
+Pythius the Rotten (Creature)	Pythius the Rotten (Creature)	7,000	9,000	0.778
+Crazed Beggar	Crazed Beggar	35	100	0.35
+Shadow of Marziel	Shadow of Marziel	?	600	?
+Shadow of Lersatio	Shadow of Lersatio	?	600	?
+Ice Witch	Ice Witch	580	650	0.892
+Armenius (Creature)	Armenius (Creature)	500	550	0.909
+Shadow of Boreth	Shadow of Boreth	?	600	?
+Gravelord Oshuran	Gravelord Oshuran	2,400	3,100	0.774
+Servant Golem	Servant Golem	5	1,400	0.004
+Ghostly Apparition	Ghostly Apparition	120	150	0.8
+Rift Phantom	Rift Phantom	?	?	?
+Husky	Husky	0	140	0
+Dharalion	Dharalion	570	390	1.462
+Countess Sorrow	Countess Sorrow	13,000	6,500	2
+Cyclops	Cyclops	150	260	0.577
+Blightwalker	Blightwalker	5,850	8,100	0.722
+Black Knight	Black Knight	1,600	1,800	0.889
+Azerus	Azerus	6,000	26,000	0.231
+Worker Golem	Worker Golem	1,250	1,470	0.85
+Diabolic Imp	Diabolic Imp	2,900	1,950	1.487
+Quara Predator	Quara Predator	1,850	2,200	0.841
+Lost Soul	Lost Soul	4,000	5,800	0.69
+Spectre	Spectre	2,100	1,350	1.556
+Yakchal	Yakchal	4,400	5,750	0.765
+Betrayed Wraith	Betrayed Wraith	3,500	4,200	0.833
+Madareth	Madareth	10,000	75,000	0.133
+Dracola	Dracola	11,000	16,200	0.679
+Arthei	Arthei	4,000	4,200	0.952
+Boreth	Boreth	1,800	1,400	1.286
+Necropharus	Necropharus	1,050	750	1.4
+Undead Jester	Undead Jester	5	355	0.014
+Dark Monk	Dark Monk	145	190	0.763
+The Snapper	The Snapper	150	300	0.5
+Merikh the Slaughterer	Merikh the Slaughterer	1,500	2,000	0.75
+Bride of Night	Bride of Night	450	275	1.636
+Killer Rabbit	Killer Rabbit	160	205	0.78
+Hot Dog	Hot Dog	190	505	0.376
+Berserker Chicken	Berserker Chicken	220	465	0.473
+Demon Parrot	Demon Parrot	225	360	0.625
+Evil Sheep Lord	Evil Sheep Lord	340	400	0.85
+Evil Sheep	Evil Sheep	240	350	0.686
+Doom Deer	Doom Deer	200	405	0.494
+Doctor Perhaps	Doctor Perhaps	325	475	0.684
+Dirtbeard	Dirtbeard	375	630	0.595
+Mephiles	Mephiles	415	415	1
+Boogey	Boogey	475	930	0.511
+Monstor	Monstor	575	960	0.599
+Evil Mastermind	Evil Mastermind	675	1,295	0.521
+Rottie the Rotworm	Rottie the Rotworm	40	65	0.615
+The Bloodtusk	The Bloodtusk	300	600	0.5
+Shardhead	Shardhead	650	800	0.813
+Vampire Pig	Vampire Pig	165	305	0.541
+Zombie	Zombie	280	500	0.56
+Leviathan	Leviathan	5,000	6,000	0.833
+Carniphila	Carniphila	150	255	0.588
+Bonelord	Bonelord	170	260	0.654
+Troll Legionnaire	Troll Legionnaire	140	210	0.667
+Gozzler	Gozzler	180	240	0.75
+Mad Sheep	Mad Sheep	0	22	0
+Butterfly (Red)	Butterfly (Red)	0	2	0
+Butterfly (Blue)	Butterfly (Blue)	0	2	0
+Enraged Bookworm	Enraged Bookworm	55	145	0.379
+Harbinger of Darkness	Harbinger of Darkness	8,700	120,000	0.073
+Spawn of Despair	Spawn of Despair	2,550	35,000	0.073
+Gloombringer	Gloombringer	6,000	50,000	0.12
+Eclipse Knight	Eclipse Knight	4,650	45,000	0.103
+Dreadbeast	Dreadbeast	250	800	0.313
+Fahim the Wise	Fahim the Wise	1,500	2,000	0.75
+Deathspawn	Deathspawn	0	225	0
+Infernal Frog	Infernal Frog	190	655	0.29
+Duskbringer	Duskbringer	2,600	3,550	0.732
+Shadow Hound	Shadow Hound	600	555	1.081
+Nightslayer	Nightslayer	250	400	0.625
+Doomsday Cultist	Doomsday Cultist	100	125	0.8
+Bane of Light	Bane of Light	750	1,100	0.682
+Midnight Spawn	Midnight Spawn	900	2,000	0.45
+Midnight Warrior	Midnight Warrior	750	1,000	0.75
+Herald of Gloom	Herald of Gloom	450	340	1.324
+Rat	Rat	5	20	0.25
+Orc Marauder	Orc Marauder	205	235	0.872
+Lizard Zaogun	Lizard Zaogun	1,700	2,955	0.575
+Lizard Legionnaire	Lizard Legionnaire	1,100	1,400	0.786
+Lizard Chosen	Lizard Chosen	2,200	3,050	0.721
+Insect Swarm	Insect Swarm	40	50	0.8
+Terramite	Terramite	160	365	0.438
+Sandcrawler	Sandcrawler	20	30	0.667
+Killer Caiman	Killer Caiman	900	1,500	0.6
+Lancer Beetle	Lancer Beetle	275	400	0.688
+Enraged Squirrel	Enraged Squirrel	15	35	0.429
+The Voice of Ruin	The Voice of Ruin	3,500	5,500	0.636
+The Collector	The Collector	100	340	0.294
+Undead Mine Worker	Undead Mine Worker	45	65	0.692
+Undead Prospector	Undead Prospector	85	100	0.85
+Renegade Orc	Renegade Orc	270	450	0.6
+Eternal Guardian	Eternal Guardian	1,800	2,500	0.72
+Battlemaster Zunzu	Battlemaster Zunzu	2,500	4,000	0.625
+Shard of Corruption	Shard of Corruption	5	600	0.008
+Mooh'Tah Master	Mooh'Tah Master	--	--	?
+Baron Brute	Baron Brute	3,000	5,025	0.597
+The Axeorcist	The Axeorcist	3,000	5,100	0.588
+Menace	Menace	3,250	6,000	0.542
+Doomhowl	Doomhowl	3,750	8,500	0.441
+Rocko	Rocko	3,400	10,000	0.34
+Dreadwing	Dreadwing	3,750	8,500	0.441
+Fatality	Fatality	3,250	6,000	0.542
+Tremorak	Tremorak	1,300	10,000	0.13
+Incineron	Incineron	3,500	7,000	0.5
+Haunter	Haunter	4,000	8,500	0.471
+The Dreadorian	The Dreadorian	4,000	9,000	0.444
+Coldheart	Coldheart	3,500	7,000	0.5
+Tirecz	Tirecz	6,000	25,000	0.24
+The Blightfather	The Blightfather	400	400	1
+Grand Mother Foulscale	Grand Mother Foulscale	1,400	1,850	0.757
+Cublarc the Plunderer	Cublarc the Plunderer	400	400	1
+Dreadmaw	Dreadmaw	1,500?	3,500	?
+Lizard Dragon Priest	Lizard Dragon Priest	1,320	1,450	0.91
+Lizard Gate Guardian	Lizard Gate Guardian	2,500	5,000	0.5
+Fleabringer	Fleabringer	100	265	0.377
+Flamecaller Zazrak	Flamecaller Zazrak	3,031	2,690	1.127
+Behemoth	Behemoth	2,500	4,000	0.625
+Rift Lord	Rift Lord	?	?	?
+War Wolf	War Wolf	55	140	0.393
+Draken Elite	Draken Elite	4,200	5,550	0.757
+Brimstone Bug	Brimstone Bug	900	1,300	0.692
+Heoni	Heoni	515	900	0.572
+The Keeper	The Keeper	3,205	40,000	0.08
+Fury of the Emperor	Fury of the Emperor	550~	51,000	?
+Snake God Essence	Snake God Essence	7,410	65,000	0.114
+Lizard Abomination	Lizard Abomination	9,700?	95,000	?
+Lizard Noble	Lizard Noble	2,000	7,000	0.286
+Scorn of the Emperor	Scorn of the Emperor	450	45,000	0.01
+Spite of the Emperor	Spite of the Emperor	500~	48,000	?
+Lizard Magistratus	Lizard Magistratus	2,000	6,250	0.32
+Teleskor	Teleskor	70	80	0.875
+Snake Thing	Snake Thing	8,400?	70,000	?
+Mutated Zalamon	Mutated Zalamon	10,980~	155,000	?
+Elder Bonelord	Elder Bonelord	280	500	0.56
+Devovorga	Devovorga	65,000?	500,000	?
+Teneshpar	Teneshpar	20,000	15,000	1.333
+Chikhaton	Chikhaton	20,000	20,000	1
+Bloom of Doom	Bloom of Doom	?	30,000	?
+Spawn of Devovorga	Spawn of Devovorga	?	?	?
+Vulnerable Cocoon	Vulnerable Cocoon	?	200,000	?
+Cocoon	Cocoon	?	?	?
+Dwarf	Dwarf	45	90	0.5
+Grandfather Tridian	Grandfather Tridian	1,400	1,800	0.778
+Stampor	Stampor	780	1,200	0.65
+Boar	Boar	60	198	0.303
+Undead Cavebear	Undead Cavebear	600	450	1.333
+Spectral Scum	Spectral Scum	--	--	?
+Ghost Rat	Ghost Rat	0	?	?
+Slime Puddle	Slime Puddle	--	--	?
+Travelling Merchant	Travelling Merchant	65	100	0.65
+Bane Bringer	Bane Bringer	400	2,500	0.16
+Soul Spark	Soul Spark	0	115	0
+Cake Golem	Cake Golem	100	444	0.225
+Bog Raider	Bog Raider	800	1,300	0.615
+Glitterscale	Glitterscale	700	1,111	0.63
+Draken Spellweaver	Draken Spellweaver	3,100	5,000	0.62
+Draken Abomination	Draken Abomination	3,800	6,250	0.608
+Sandstone Scorpion	Sandstone Scorpion	680	900	0.756
+Askarak Lord	Askarak Lord	1,200	2,100	0.571
+Askarak Prince	Askarak Prince	1,700	2,600	0.654
+Bog Frog	Bog Frog	0	25	0
+Death Priest	Death Priest	750	800	0.938
+Desperate White Deer	Desperate White Deer	35	55	0.636
+Diamond Servant	Diamond Servant	700	1,000	0.7
+Dromedary	Dromedary	0	45	0
+Elder Mummy	Elder Mummy	560	850	0.659
+Enraged White Deer	Enraged White Deer	165	255	0.647
+Feverish Citizen	Feverish Citizen	30	125	0.24
+Filth Toad	Filth Toad	90	185	0.486
+Firestarter	Firestarter	80	180	0.444
+Ghoulish Hyaena	Ghoulish Hyaena	195	400	0.488
+Golden Servant	Golden Servant	450	550	0.818
+Grave Guard	Grave Guard	485	720	0.674
+Honour Guard	Honour Guard	55	85	0.647
+Horse (Taupe)	Horse (Taupe)	0	75	0
+Insectoid Scout	Insectoid Scout	150	230	0.652
+Iron Servant	Iron Servant	210	350	0.6
+Mad Mage	Mad Mage	1,800	2,500	0.72
+Sacred Spider	Sacred Spider	330	550	0.6
+Shaburak Prince	Shaburak Prince	1,700	2,600	0.654
+Slug	Slug	70	255	0.275
+Starving Wolf	Starving Wolf	65	85	0.765
+Thornfire Wolf	Thornfire Wolf	200	600	0.333
+Tomb Servant	Tomb Servant	215	475	0.453
+Groam	Groam	180	400	0.45
+Askarak Demon	Askarak Demon	900	1,500	0.6
+Troll Guard	Troll Guard	25	60	0.417
+Wild Dog	Wild Dog	0	20	0
+Running Elite Orc Guard	Running Elite Orc Guard	0	?	?
+Furious Orc Berserker	Furious Orc Berserker	0	?	?
+Weakened Demon	Weakened Demon	0	5	0
+White Deer	White Deer	0	195	0
+Incredibly Old Witch	Incredibly Old Witch	0	620	0
+Energized Raging Mage	Energized Raging Mage	0	3,500	0
+Shaburak Demon	Shaburak Demon	900	1,500	0.6
+Spider Queen	Spider Queen	120	10,000	0.012
+Butterfly (Yellow)	Butterfly (Yellow)	0	2	0
+Clay Guardian	Clay Guardian	400	625	0.64
+Crystal Wolf	Crystal Wolf	275	750	0.367
+Horestis	Horestis	3,500	6,000	0.583
+Massacre	Massacre	20,000	32,000	0.625
+Ghazbaran	Ghazbaran	15,000	77,000	0.195
+Destroyer	Destroyer	2,500	3,700	0.676
+Lizard Templar	Lizard Templar	155	410	0.378
+Draken Warmaster	Draken Warmaster	2,400	4,150	0.578
+Lizard High Guard	Lizard High Guard	1,450	1,800	0.806
+Hellspawn	Hellspawn	2,550	3,500	0.729
+Black Sheep	Black Sheep	0	20	0
+Tarantula	Tarantula	120	225	0.533
+Plaguesmith	Plaguesmith	3,800	8,250	0.461
+Devovorga (Invincible)	Devovorga (Invincible)	--	--	?
+Elf Overseer	Elf Overseer	290	500	0.58
+Shaburak Lord	Shaburak Lord	1,200	2,100	0.571
+Fleshcrawler	Fleshcrawler	1,000	1,450	0.69
+Ethershreck	Ethershreck	5,600	9,500	0.589
+The Bloodweb	The Bloodweb	1,450	1,750	0.829
+Deathbine	Deathbine	340	525	0.648
+Ribstride	Ribstride	1,100	1,000	1.1
+Flameborn	Flameborn	2,550	3,500	0.729
+Gorgo	Gorgo	7,000	4,500	1.556
+Sulphur Scuttler	Sulphur Scuttler	900	1,300	0.692
+Necromancer	Necromancer	580	580	1
+Orshabaal	Orshabaal	10,000	22,500	0.444
+Morgaroth	Morgaroth	15,000	55,000	0.273
+Wild Horse	Wild Horse	0	75	0
+Demodras	Demodras	6,000	4,500	1.333
+Zulazza the Corruptor	Zulazza the Corruptor	10,000	46,500	0.215
+The Mutated Pumpkin	The Mutated Pumpkin	30,000	500,000	0.06
+Crustacea Gigantica	Crustacea Gigantica	1,800	1,600	1.125
+Hide	Hide	240	500	0.48
+Deer	Deer	0	25	0
+The Halloween Hare	The Halloween Hare	0	2,000	0
+Energy Elemental	Energy Elemental	550	500	1.1
+Fire Elemental	Fire Elemental	220	280	0.786
+Hatebreeder	Hatebreeder	10,000	18,000	0.556
+Mutated Bat	Mutated Bat	615	900	0.683
+Deepsea Blood Crab	Deepsea Blood Crab	180	320	0.563
+Grynch Clan Goblin	Grynch Clan Goblin	4	80	0.05
+Blistering Fire Elemental	Blistering Fire Elemental	1,300	1,500	0.867
+Hellgorak	Hellgorak	10,000	25,850	0.387
+Hellfire Fighter	Hellfire Fighter	3,400	3,800	0.895
+Dog	Dog	0	20	0
+Wrath of the Emperor	Wrath of the Emperor	600	55,000	0.011
+Acolyte of Darkness	Acolyte of Darkness	200	325	0.615
+Souleater	Souleater	1,300	1,100	1.182
+Essence of Darkness	Essence of Darkness	30	1,000+	?
+Spirit of Light	Spirit of Light	?	?	?
+Deepling Worker	Deepling Worker	130	190	0.684
+Kerberos	Kerberos	10,000	11,000	0.909
+Shark	Shark	700	1,200	0.583
+Jellyfish	Jellyfish	0	55	0
+Calamary	Calamary	0	75	0
+Fish (Creature)	Fish (Creature)	0	25	0
+Northern Pike (Creature)	Northern Pike (Creature)	0	95	0
+Obujos	Obujos	20,000	35,000	0.571
+Tanjis	Tanjis	15,000	30,000	0.5
+Insectoid Worker	Insectoid Worker	650	950	0.684
+Waspoid	Waspoid	830	1,100	0.755
+Swarmer	Swarmer	350	460	0.761
+Crawler	Crawler	1,000	1,450	0.69
+Floor Blob	Floor Blob	--	--	?
+Kollos	Kollos	2,400	3,800	0.632
+Spidris	Spidris	2,600	3,700	0.703
+Ladybug	Ladybug	70	255	0.275
+Swarmer Hatchling	Swarmer Hatchling	0	5	0
+Lesser Swarmer	Lesser Swarmer	0	230	0
+Hive Pore	Hive Pore	--	--	?
+Spitter	Spitter	1,100	1,500	0.733
+Hive Overseer	Hive Overseer	5,500	7,500	0.733
+Giant Spider (Wyda)	Giant Spider (Wyda)	12	20	0.6
+Deepling Warrior	Deepling Warrior	1,500	1,600	0.938
+Spidris Elite	Spidris Elite	4,000	5,000	0.8
+Terrified Elephant	Terrified Elephant	160	320	0.5
+Elvira Hammerthrust	Elvira Hammerthrust	165	245	0.673
+Poodle	Poodle	0	20	0
+Slippery Northern Pike	Slippery Northern Pike	0	100	0
+Mornenion	Mornenion	115	190	0.605
+Bane Lord	Bane Lord	500	3,000	0.167
+Mirade (Creature)	Mirade (Creature)	30,000	100,000	0.3
+Tjured (Creature)	Tjured (Creature)	--	--	?
+Rejana (Creature)	Rejana (Creature)	30,000	100,000	0.3
+Wolf (Nostalgia)	Wolf (Nostalgia)	15	25	0.6
+Bear (Nostalgia)	Bear (Nostalgia)	21	80	0.263
+Wasp (Nostalgia)	Wasp (Nostalgia)	21	35	0.6
+Bug (Nostalgia)	Bug (Nostalgia)	15	29	0.517
+Spider (Nostalgia)	Spider (Nostalgia)	10	20	0.5
+Bonelord (Nostalgia)	Bonelord (Nostalgia)	157	260	0.604
+Giant Spider (Nostalgia)	Giant Spider (Nostalgia)	840	1,300	0.646
+Craban (Creature)	Craban (Creature)	200	300,000+?	?
+Denson Larika (Creature)	Denson Larika (Creature)	3,000?	50,000?	?
+Robby the Reckless	Robby the Reckless	110	155	0.71
+Delany (Creature)	Delany (Creature)	30,000	100,000	0.3
+Siramal (Creature)	Siramal (Creature)	35,000	100,000	0.35
+Bolfrim (Creature)	Bolfrim (Creature)	35,000	100,000	0.35
+Jesse the Wicked	Jesse the Wicked	180	280	0.643
+Dragon Hatchling	Dragon Hatchling	185	380	0.487
+Dragon	Dragon	700	1,000	0.7
+Frost Dragon Hatchling	Frost Dragon Hatchling	745	800	0.931
+Draptor	Draptor	2,400	3,000	0.8
+Dragon Lord Hatchling	Dragon Lord Hatchling	645	750	0.86
+Frost Dragon	Frost Dragon	2,100	1,800	1.167
+Undead Dragon	Undead Dragon	7,200	8,350	0.862
+Chayenne (Creature)	Chayenne (Creature)	40,000	100,000+	?
+Baby Pet of Chayenne	Baby Pet of Chayenne	0	380	0
+Noble Pet of Chayenne	Noble Pet of Chayenne	0	?	?
+Count Tofifti (Creature)	Count Tofifti (Creature)	40,000?	100,000?	?
+Yellow Toilet Paper Man	Yellow Toilet Paper Man	?	?	?
+Penciljack (Creature)	Penciljack (Creature)	35,000	150,000	0.233
+Lionet (Creature)	Lionet (Creature)	35,000	100,000	0.35
+Muse of Penciljack	Muse of Penciljack	1,050	1,200?	?
+Lyxoph (Creature)	Lyxoph (Creature)	10,000	45,000	0.222
+Skyrr (Creature)	Skyrr (Creature)	?	?	?
+Grimrat	Grimrat	?	?	?
+Grims Little Hamster	Grims Little Hamster	?	5,500?	?
+Tin Lizzard of Lyxoph	Tin Lizzard of Lyxoph	5,500 ?	?	?
+Fazzrah	Fazzrah	2,600	2,955	0.88
+Bruise Payne	Bruise Payne	1,000	1,600	0.625
+Manta Ray	Manta Ray	125	680	0.184
+Deepling Spellsinger	Deepling Spellsinger	1,000	850	1.176
+Deepling Scout	Deepling Scout	160	240	0.667
+Deepling Guard	Deepling Guard	2,100	1,900	1.105
+Tromphonyte	Tromphonyte	1,300	3,000	0.433
+Paiz the Pauperizer	Paiz the Pauperizer	6,300	8,500	0.741
+Tormentor	Tormentor	3,200	4,100	0.78
+Deepling Elite	Deepling Elite	3,000	3,200	0.938
+Deepling Tyrant	Deepling Tyrant	4,200	4,500	0.933
+Hemming	Hemming	2,850	3,000	0.95
+Zanakeph	Zanakeph	9,900	13,000	0.762
+Maw	Maw	6,500	8,200	0.793
+Fleshslicer	Fleshslicer	5,500	5,700	0.965
+Chopper	Chopper	5,400	7,200	0.75
+Mindmasher	Mindmasher	6,000	9,500	0.632
+Shadowstalker	Shadowstalker	4,000	6,100	0.656
+Rotspit	Rotspit	?	6,800	?
+Deepling Brawler	Deepling Brawler	260	380	0.684
+Grave Robber	Grave Robber	65	165	0.394
+Crypt Defiler	Crypt Defiler	70	185	0.378
+Deepling Master Librarian	Deepling Master Librarian	1,900	1,700	1.118
+Crystalcrusher	Crystalcrusher	500	570	0.877
+Enslaved Dwarf	Enslaved Dwarf	2,700	3,800	0.711
+Lost Berserker	Lost Berserker	4,400	5,900	0.746
+Gnomevil	Gnomevil	45,000	250,000	0.18
+Mushroom Sniffer	Mushroom Sniffer	0	250	0
+Wiggler	Wiggler	900	1,200	0.75
+Mamma Longlegs	Mamma Longlegs	2,200	1,800	1.222
+Lagatos	Lagatos	35,189	?	?
+Tormented Ghost	Tormented Ghost	5	210	0.024
+The Noxious Spawn	The Noxious Spawn	6,000	9,500	0.632
+Magma Crawler	Magma Crawler	2,700	4,800	0.563
+Dragonling	Dragonling	2,200	2,600	0.846
+Ironblight	Ironblight	4,400	6,600	0.667
+Hideous Fungus	Hideous Fungus	2,900	4,600	0.63
+Humongous Fungus	Humongous Fungus	2,600	3,400	0.765
+Stone Devourer	Stone Devourer	2,900	4,200	0.69
+Orewalker	Orewalker	4,800	7,200	0.667
+Cliff Strider	Cliff Strider	5,700	9,400	0.606
+Anmothra	Anmothra	15,000	7,000	2.143
+Irahsae	Irahsae	15,000	35,000	0.429
+Phrodomo	Phrodomo	44,000	90,000	0.489
+Fury	Fury	4,000	4,100	0.976
+Dark Torturer	Dark Torturer	4,650	7,350	0.633
+The Many	The Many	4,000	5,000	0.8
+Esmeralda	Esmeralda	600	800	0.75
+Abyssador	Abyssador	50,000	340,000	0.147
+Deathstrike	Deathstrike	40,000	200,000	0.2
+Gnarlhound	Gnarlhound	60	198	0.303
+Modified Gnarlhound	Modified Gnarlhound	0	1,500	0
+Vulcongra	Vulcongra	1,100	1,600	0.688
+Enraged Crystal Golem	Enraged Crystal Golem	550	700	0.786
+Damaged Crystal Golem	Damaged Crystal Golem	0	500	0
+Rukor Zad	Rukor Zad	380	380	1
+Yaga the Crone	Yaga the Crone	375	620	0.605
+Humorless Fungus	Humorless Fungus	0	2,500	0
+Armadile	Armadile	2,900	3,800	0.763
+Lava Golem	Lava Golem	6,200	9,000	0.689
+Weeper	Weeper	4,800	6,800	0.706
+Vampire Bride	Vampire Bride	1,050	1,200	0.875
+Yielothax	Yielothax	1,250	1,500	0.833
+Versperoth	Versperoth	30,000	100,000	0.3
+Strange Slime	Strange Slime	0	15	0
+Infected Weeper	Infected Weeper	1,200	3,000	0.4
+Parasite	Parasite	0	550	0
+Raging Mage	Raging Mage	3,250	3,500	0.929
+Sloth Wraith	Sloth Wraith	--	--	?
+Ship Core	Ship Core	0	?	?
+Minion of Versperoth	Minion of Versperoth	0	9,000?	?
+Marid	Marid	410	550	0.745
+Shredderthrower	Shredderthrower	18	100	0.18
+Nomad (Female)	Nomad (Female)	60	160	0.375
+Nomad (Blue)	Nomad (Blue)	60	160	0.375
+Young Troll	Young Troll	12	30	0.4
+Berrypest	Berrypest	0	500	0
+Annihilon	Annihilon	15,000	46,500	0.323
+Green Djinn	Green Djinn	215	330	0.652
+Blue Djinn	Blue Djinn	215	330	0.652
+Emerald Damselfly	Emerald Damselfly	35	90	0.389
+Marsh Stalker	Marsh Stalker	50	100	0.5
+Salamander	Salamander	25	70	0.357
+Swampling	Swampling	45	80	0.563
+Bibby Bloodbath	Bibby Bloodbath	1,500	1,200	1.25
+Corym Charlatan	Corym Charlatan	150	250	0.6
+Corym Skirmisher	Corym Skirmisher	260	450	0.578
+Lost Basher	Lost Basher	1,800	2,600	0.692
+Lost Husher	Lost Husher	1,800	1,600	1.125
+Pigeon	Pigeon	0	30	0
+Water Buffalo	Water Buffalo	20	390	0.051
+Lost Thrower	Lost Thrower	1,200	1,700	0.706
+Drillworm	Drillworm	858	1,500	0.572
+Adventurer	Adventurer	0	65	0
+Little Corym Charlatan	Little Corym Charlatan	40	90	0.444
+Angry Adventurer	Angry Adventurer	50	65	0.769
+Party Skeleton	Party Skeleton	0	40	0
+Earth Elemental	Earth Elemental	450	650	0.692
+Demon	Demon	6,000	8,200	0.732
+Corym Vanguard	Corym Vanguard	490	700	0.7
+Mr. Punish	Mr. Punish	9,000	22,000	0.409
+Medusa	Medusa	4,050	4,500	0.9
+Elder Wyrm	Elder Wyrm	2,500	2,700	0.926
+Vampire Viscount	Vampire Viscount	800	1,200	0.667
+Vicious Manbat	Vicious Manbat	1,200	1,700	0.706
+White Shade	White Shade	120	260	0.462
+Tarnished Spirit	Tarnished Spirit	120	150	0.8
+Shadow Pupil	Shadow Pupil	410	450	0.911
+Blood Hand	Blood Hand	750	700	1.071
+Blood Priest	Blood Priest	900	820	1.098
+Forest Fury	Forest Fury	235	480	0.49
+Rorc	Rorc	105	260	0.404
+Undead Pet of Chayenne	Undead Pet of Chayenne	0	8,350?	?
+Kraknaknork	Kraknaknork	300	80	3.75
+Nightfiend	Nightfiend	2,100	2,700	0.778
+Tyrn	Tyrn	6,900	12,000	0.575
+The Welter	The Welter	11,000	25,000	0.44
+White Pale	White Pale	390	500	0.78
+Shlorg	Shlorg	--	?	?
+The Pale Count	The Pale Count	28,000	50,000	0.56
+Bretzecutioner	Bretzecutioner	3,700	5,600	0.661
+Willi Wasp	Willi Wasp	250	250	1
+Chizzoron the Distorter	Chizzoron the Distorter	4,000	16,000	0.25
+Wild Fury Magic	Wild Fury Magic	--	--	?
+Wild Nature Magic	Wild Nature Magic	--	--	?
+Wild Water Magic	Wild Water Magic	--	--	?
+Wild Fire Magic	Wild Fire Magic	--	--	?
+Omruc	Omruc	2,950	4,300	0.686
+Zomba	Zomba	300	300	1
+Necromancer Servant	Necromancer Servant	590	600	0.983
+Enraged Soul	Enraged Soul	120	150	0.8
+Ocyakao	Ocyakao	490	700	0.7
+Hirintror	Hirintror	800	1,500	0.533
+Zushuka	Zushuka	9,000	15,000	0.6
+Furyosa	Furyosa	11,500	25,000	0.46
+Weakened Shlorg	Weakened Shlorg	6,500	10,000	0.65
+Spawn of the Welter	Spawn of the Welter	?	?	?
+Egg (Creature)	Egg (Creature)	0	800	0
+Demon Outcast	Demon Outcast	6,200	6,900	0.899
+Shock Head	Shock Head	2,300	4,200	0.548
+Sight of Surrender	Sight of Surrender	17,000	28,000	0.607
+Silencer	Silencer	5,100	5,400	0.944
+Terrorsleep	Terrorsleep	7,240	7,200	1.006
+Choking Fear	Choking Fear	4,700	5,800	0.81
+Feversleep	Feversleep	5,060	5,900	0.858
+Nightmare of Gaz'haragoth	Nightmare of Gaz'haragoth	0	5,500	0
+Minion of Gaz'haragoth	Minion of Gaz'haragoth	0	5,500	0
+Zavarash	Zavarash	21,000	35,000	0.6
+Horadron	Horadron	18,000	30,000	0.6
+Terofar	Terofar	24,000	40,000	0.6
+Prince Drazzak	Prince Drazzak	210,000	330,000	0.636
+Mawhawk	Mawhawk	14,000	45,000	0.311
+Shiversleep	Shiversleep	1,900	4,600	0.413
+Shimmying Butterfly	Shimmying Butterfly	0	20	0
+Bad Dream	Bad Dream			?
+Wounded Cave Draptor	Wounded Cave Draptor	50	5	10
+Omrafir	Omrafir	?	322,000	?
+Flame of Omrafir	Flame of Omrafir	?	800	?
+Phantasm (Weak)	Phantasm (Weak)	1	65	0.015
+Hellhound	Hellhound	5,440	7,500	0.725
+Mooh'Tah Warrior	Mooh'Tah Warrior	900	1,200	0.75
+Metal Gargoyle	Metal Gargoyle	1,278	2,100	0.609
+Minotaur Amazon	Minotaur Amazon	2,200	2,600	0.846
+Execowtioner	Execowtioner	2,400	3,500	0.686
+Minotaur Hunter	Minotaur Hunter	1,700	1,400	1.214
+Worm Priestess	Worm Priestess	1,500	1,100	1.364
+Walker	Walker	2,200	3,000	0.733
+Blood Beast	Blood Beast	1,000	1,600	0.625
+Devourer	Devourer	1,755	1,900	0.924
+Glooth Blob	Glooth Blob	700	750	0.933
+Rustheap Golem	Rustheap Golem	2,100	2,800	0.75
+Rot Elemental	Rot Elemental	750	850	0.882
+Bullwark	Bullwark	22,000	72,000	0.306
+Glooth Golem	Glooth Golem	1,606	2,700	0.595
+Glooth Anemone	Glooth Anemone	1,755	2,400	0.731
+The Ravager	The Ravager	14,980	53,500	0.28
+Death Priest Shargon	Death Priest Shargon	~20,000	65,000	?
+Glooth Fairy	Glooth Fairy	19,000	59,000	0.322
+Lisa	Lisa	18,000	55,000	0.327
+Lesser Death Minion	Lesser Death Minion	0	550	0
+Greater Death Minion	Greater Death Minion	0	1,500	0
+Superior Death Minion	Superior Death Minion	0	2,500?	?
+Necromantic Energy	Necromantic Energy	?	?	?
+Mountain Troll	Mountain Troll	12	30	0.4
+Troll-Trained Salamander	Troll-Trained Salamander	23	70	0.329
+Dawnfly	Dawnfly	35	90	0.389
+Brittle Skeleton	Brittle Skeleton	35	50	0.7
+Muglex Clan Footman	Muglex Clan Footman	25	50	0.5
+Muglex Clan Scavenger	Muglex Clan Scavenger	37	60	0.617
+Salamander Trainer	Salamander Trainer	70	220	0.318
+Woodling	Woodling	40	80	0.5
+Juvenile Cyclops	Juvenile Cyclops	130	260	0.5
+Sacred Snake	Sacred Snake	0	10	0
+Minotaur Bruiser	Minotaur Bruiser	50	100	0.5
+Muglex Clan Assassin	Muglex Clan Assassin	48	75	0.64
+Crazed Dwarf	Crazed Dwarf	50	105	0.476
+Dawn Scorpion	Dawn Scorpion	45	65	0.692
+Lesser Fire Devil	Lesser Fire Devil	110	175	0.629
+Meadow Strider	Meadow Strider	50	100	0.5
+Minotaur Occultist	Minotaur Occultist	100	125	0.8
+Minotaur Poacher	Minotaur Poacher	55	160	0.344
+Scar Tribe Shaman	Scar Tribe Shaman	85	115	0.739
+Scar Tribe Warrior	Scar Tribe Warrior	85	125	0.68
+Professor Maxxen	Professor Maxxen	15,500	90,000	0.172
+Noble Lion	Noble Lion	400	1,000	0.4
+Renegade Quara Constrictor	Renegade Quara Constrictor	1,250	1,500	0.833
+Renegade Quara Hydromancer	Renegade Quara Hydromancer	1,800	2,000	0.9
+Renegade Quara Mantassin	Renegade Quara Mantassin	1,000	1,200	0.833
+Renegade Quara Predator	Renegade Quara Predator	2,700	3,250	0.831
+Renegade Quara Pincher	Renegade Quara Pincher	2,200	2,800	0.786
+Abyssal Calamary	Abyssal Calamary	200	300	0.667
+High Voltage Elemental	High Voltage Elemental	1,500	1,500	1
+Glooth-Generator	Glooth-Generator	0	12,000	0
+Control Tower	Control Tower	3,000	7,500	0.4
+Unstable Tunnel	Unstable Tunnel	?	?	?
+Glooth Battery	Glooth Battery	3,000	8,000	0.375
+Energy Pulse	Energy Pulse	--	--	?
+Glooth Masher	Glooth Masher	?	?	?
+Glooth Trasher	Glooth Trasher	?	?	?
+Glooth Slasher	Glooth Slasher	?	?	?
+Glooth Horror	Glooth Horror	900?	15,000	?
+Feeble Glooth Horror	Feeble Glooth Horror	245?	5,000	?
+Weakened Glooth Horror	Weakened Glooth Horror	245	10,000	0.025
+Strong Glooth Horror	Strong Glooth Horror	1,500?	20,000	?
+Empowered Glooth Horror	Empowered Glooth Horror	2,150?	25,000	?
+Tentacle of the Deep Terror	Tentacle of the Deep Terror	0?	~25,500	?
+Deep Terror	Deep Terror	35,000	100,000	0.35
+Glooth Bomb	Glooth Bomb	?	250,000	?
+Tremor Worm	Tremor Worm	80,000?	125,000	?
+Depowered Minotaur	Depowered Minotaur	1,100	1,500	0.733
+Glooth Powered Minotaur	Glooth Powered Minotaur	?	?	?
+Minotaur Totem	Minotaur Totem	500	6,000	0.083
+Minotaur Invader	Minotaur Invader	1,600	1,850	0.865
+Moohtant Wallbreaker	Moohtant Wallbreaker	?	250,000	?
+Glooth Brigand	Glooth Brigand	1,900	2,400	0.792
+Glooth Bandit	Glooth Bandit	2,000	2,600	0.769
+Troll Marauder	Troll Marauder	40	70	0.571
+Frost Spider	Frost Spider	0	1,250	0
+Frost Servant	Frost Servant	0	385	0
+Raging Fire	Raging Fire	1,500	1,800	0.833
+Acid Blob	Acid Blob	250	250	1
+Ancient Scarab	Ancient Scarab	720	1,000	0.72
+Troll	Troll	20	50	0.4
+Werewolf	Werewolf	1,900	1,955	0.972
+The Plasmother	The Plasmother	12,000	7,500	1.6
+Sheep	Sheep	0	20	0
+Muddy Earth Elemental	Muddy Earth Elemental	450	650	0.692
+Monk	Monk	200	240	0.833
+Mimic	Mimic	0	1,200	0
+Man in the Cave	Man in the Cave	777	485	1.602
+Infernalist	Infernalist	4,000	3,650	1.096
+Furious Troll	Furious Troll	185	245	0.755
+Dworc Venomsniper	Dworc Venomsniper	35	80	0.438
+Defiler	Defiler	3,700	3,650	1.014
+Cobra	Cobra	30	65	0.462
+Werebear	Werebear	2,100	2,400	0.875
+Werebadger	Werebadger	1,600	1,700	0.941
+Wereboar	Wereboar	2,000	2,200	0.909
+Gloom Wolf	Gloom Wolf	70	200	0.35
+Feroxa	Feroxa	?	?	?
+Ghost Wolf	Ghost Wolf	65	160	0.406
+Tainted Soul	Tainted Soul	0	250	0
+Redeemed Soul	Redeemed Soul	0	250	0
+Omnivora	Omnivora	750	1,200	0.625
+Vicious Squire	Vicious Squire	900	1,000	0.9
+Renegade Knight	Renegade Knight	1,200	1,450	0.828
+Vile Grandmaster	Vile Grandmaster	1,500	1,700	0.882
+Dawnfire Asura	Dawnfire Asura	4,100	2,900	1.414
+Midnight Asura	Midnight Asura	4,100	3,100	1.323
+Ekatrix	Ekatrix	200	500	0.4
+The Flaming Orchid	The Flaming Orchid	8,500	4,000	2.125
+Mahatheb	Mahatheb	600	650	0.923
+Feroxa (Werewolf)	Feroxa (Werewolf)	?	?	?
+Feroxa (Killable Werewolf)	Feroxa (Killable Werewolf)	?	150,000	?
+Feroxa (Gloom Wolf)	Feroxa (Gloom Wolf)	?	?	?
+Oodok Witchmaster	Oodok Witchmaster	550	450	1.222
+Tzumrah the Dazzler	Tzumrah the Dazzler	1,700	1,700	1
+Canopic Jar	Canopic Jar	0	1,000	0
+Owin (Creature)	Owin (Creature)	5,000	9,600	0.521
+Hydra	Hydra	2,100	2,350	0.894
+Dragon Lord	Dragon Lord	2,100	1,900	1.105
+Arthom the Hunter	Arthom the Hunter	550	500	1.1
+The Mean Masher	The Mean Masher	6,000	8,000	0.75
+Vexclaw	Vexclaw	6,248	8,500	0.735
+Grimeleech	Grimeleech	7,216	9,500	0.76
+Ogre Savage	Ogre Savage	950	1,400	0.679
+Clomp	Clomp	475	900	0.528
+Plagirath	Plagirath	250,000	290,000	0.862
+Shulgrax	Shulgrax	250,000	290,000	0.862
+Tarbaz	Tarbaz	250,000	290,000?	?
+Zamulosh	Zamulosh	250,000	?	?
+Ragiaz	Ragiaz	250,000	280,000?	?
+Razzagorn	Razzagorn	250,000	290,000	0.862
+Ogre Brute	Ogre Brute	800	1,000	0.8
+Seacrest Serpent	Seacrest Serpent	2,600	3,000	0.867
+Ferumbras Mortal Shell	Ferumbras Mortal Shell	500,000	300,000	1.667
+Rage of Mazoran	Rage of Mazoran	0	4,500	0
+Ascending Ferumbras	Ascending Ferumbras	?	?	?
+Ferumbras Soul Splinter	Ferumbras Soul Splinter	?	90,000	?
+Mazoran	Mazoran	250,000	290,000	0.862
+Dread Intruder	Dread Intruder	2,400	4,500	0.533
+Reality Reaver	Reality Reaver	2,480	3,900	0.636
+Breach Brood	Breach Brood	1,760	3,500	0.503
+Enthralled Demon	Enthralled Demon	?	8,200	?
+Rift Invader	Rift Invader	?	6,250	?
+Ferumbras Essence	Ferumbras Essence	?	?	?
+Destabilized Ferumbras	Destabilized Ferumbras	?	?	?
+Rift Fragment	Rift Fragment	?	?	?
+Disgusting Ooze	Disgusting Ooze	?	?	?
+Death Dragon	Death Dragon	?	8,350	?
+Eruption of Destruction	Eruption of Destruction	0	8,500	0
+Sin Devourer	Sin Devourer	?	?	?
+Guilt	Guilt	?	?	?
+Despair	Despair	0	10,000	0
+Instable Breach Brood	Instable Breach Brood	1,100	2,200	0.5
+Instable Sparkion	Instable Sparkion	1,350	1,900	0.711
+Stabilizing Reality Reaver	Stabilizing Reality Reaver	1,950	2,500	0.78
+Stabilizing Dread Intruder	Stabilizing Dread Intruder	1,900	2,800	0.679
+Charged Anomaly	Charged Anomaly	?	18,000	?
+Anomaly	Anomaly	50,000	290,000	0.172
+Grim Reaper	Grim Reaper	5,500	3,900	1.41
+Spark of Destruction	Spark of Destruction	?	3,900	?
+Outburst	Outburst	50,000	290,000	0.172
+Charging Outburst	Charging Outburst	50,000	12,000	4.167
+Eradicator	Eradicator	50,000	290,000	0.172
+Realityquake	Realityquake	20,000	110,000	0.182
+Aftershock	Aftershock	?	105,000?	?
+Foreshock	Foreshock	?	105,000?	?
+Rupture	Rupture	~112,000	290,000	?
+The Destruction	The Destruction	?	?	?
+The Hunger	The Hunger	?	?	?
+The Rage	The Rage	?	?	?
+World Devourer	World Devourer	~77,700	25,000?	?
+Charger	Charger	85	1,600	0.053
+Overcharged Disruption	Overcharged Disruption	?	?	?
+Frenzy	Frenzy	~1,313	8,210	?
+Greed	Greed	?	?	?
+Disruption	Disruption	~398	12,000	?
+Overcharge	Overcharge	0	8,000	0
+Burster	Burster	10,000	10,000?	?
+Damage Resonance	Damage Resonance	~560	11,000	?
+Crackler	Crackler	?	?	?
+Charged Disruption	Charged Disruption	?	?	?
+Unstable Spark	Unstable Spark	1,500	10,500	0.143
+Depolarized Crackler	Depolarized Crackler	?	?	?
+Midnight Panther	Midnight Panther	900	1,200	0.75
+Jaul	Jaul	30,000	90,000	0.333
+Warlock	Warlock	4,000	3,500	1.143
+Sea Serpent	Sea Serpent	2,300	1,950	1.179
+Gaz'haragoth	Gaz'haragoth	1,000,000	350,000	2.857
+Frazzlemaw	Frazzlemaw	3,740	4,100	0.912
+Ferumbras	Ferumbras	35,000	90,000	0.389
+Guzzlemaw	Guzzlemaw	6,050	6,400	0.945
+Retching Horror	Retching Horror	4,100	5,300	0.774
+Juggernaut	Juggernaut	11,200	18,000	0.622
+Twisted Shaper	Twisted Shaper	1,750	2,500	0.7
+Shaper Matriarch	Shaper Matriarch	1,650	2,000	0.825
+Orclops Ravager	Orclops Ravager	1,100	1,200	0.917
+Stone Rhino	Stone Rhino	1,800	3,000	0.6
+Dragonking Zyrtarch	Dragonking Zyrtarch	?	?	?
+Broken Shaper	Broken Shaper	1,600	2,200	0.727
+Corrupted Soul	Corrupted Soul	1,300	1,100	1.182
+Soul of Dragonking Zyrtarch	Soul of Dragonking Zyrtarch	?	?	?
+The Time Guardian	The Time Guardian	50,000	?	?
+Lady Tenebris	Lady Tenebris	~50,000?	?	?
+Shadow Tentacle	Shadow Tentacle	?	?	?
+Cave Parrot	Cave Parrot	0	30	0
+Orclops Doomhauler	Orclops Doomhauler	1,200	1,700	0.706
+Squidgy Slime	Squidgy Slime	55	150	0.367
+Frozen Man	Frozen Man	?	?	?
+Solid Frozen Horror	Solid Frozen Horror	?	?	?
+Frozen Minion	Frozen Minion	?	?	?
+Icicle (Creature)	Icicle (Creature)	?	?	?
+Dragon Egg	Dragon Egg	?	?	?
+Soulcatcher	Soulcatcher	?	?	?
+Golden Servant Replica	Golden Servant Replica	450	2,000	0.225
+Diamond Servant Replica	Diamond Servant Replica	700	2,000	0.35
+Animated Sword	Animated Sword	?	?	?
+A Shielded Astral Glyph	A Shielded Astral Glyph	?	?	?
+The Astral Source	The Astral Source	?	?	?
+Bound Astral Power	Bound Astral Power	?	?	?
+Mounted Thorn Knight	Mounted Thorn Knight	15,000	?	?
+Possessed Tree	Possessed Tree	1,300	2,500	0.52
+Thorn Minion	Thorn Minion	?	?	?
+Unbound Blightwalker	Unbound Blightwalker	?	?	?
+Time Keeper	Time Keeper	?	?	?
+Cosmic Energy Prism A	Cosmic Energy Prism A	840	1,000	0.84
+Cosmic Energy Prism B	Cosmic Energy Prism B	840	1,000	0.84
+Cosmic Energy Prism C	Cosmic Energy Prism C	840	1,000	0.84
+Cosmic Energy Prism D	Cosmic Energy Prism D	840	1,000	0.84
+The Freezing Time Guardian	The Freezing Time Guardian	50,000	?	?
+The Blazing Time Guardian	The Blazing Time Guardian	50,000	?	?
+Iron Servant Replica	Iron Servant Replica	210	1,000	0.21
+Baby Dragon (Creature)	Baby Dragon (Creature)	?	?	?
+Lost Time	Lost Time	?	?	?
+Time Waster	Time Waster	?	?	?
+Shadow Fiend	Shadow Fiend	?	?	?
+Unbound Defiler	Unbound Defiler	?	?	?
+Unbound Demon	Unbound Demon	?	?	?
+Unbound Demon Outcast	Unbound Demon Outcast	?	?	?
+Melting Frozen Horror	Melting Frozen Horror	?	?	?
+The Enraged Thorn Knight	The Enraged Thorn Knight	30,000	?	?
+The Shielded Thorn Knight	The Shielded Thorn Knight	?	?	?
+Elder Forest Fury	Elder Forest Fury	330	670	0.493
+Angry Demon	Angry Demon	6,000	8,200	0.732
+An Astral Glyph	An Astral Glyph	?	?	?
+The Distorted Astral Source	The Distorted Astral Source	?	?	?
+Piñata Dragon	Piñata Dragon	50	10,000	0.005
+Tazhadur	Tazhadur	9,000	10,000	0.9
+Kalyassa	Kalyassa	9,000	10,000	0.9
+Dragon Servant	Dragon Servant	?	?	?
+Dragon Wrath	Dragon Wrath	?	?	?
+Haunted Dragon	Haunted Dragon	6,500	6,500	1
+Spirit of Fertility	Spirit of Fertility	?	?	?
+Angry Plant	Angry Plant	?	10,000	?
+Zorvorax	Zorvorax	9,000	10,000	0.9
+Dragon Warden	Dragon Warden	?	?	?
+The First Dragon	The First Dragon	?	50,000+	?
+An Observer Eye	An Observer Eye	0	30,000	0
+Gelidrazah the Frozen	Gelidrazah the Frozen	9,000	10,000	0.9
+Giant Spider 7.4	Giant Spider 7.4	0	3,250	0
+Giant Spider 7.6	Giant Spider 7.6	0	?	?
+Giant Spider 8.1	Giant Spider 8.1	0	?	?
+Queen Nostalgia (5)	Queen Nostalgia (5)	0	?	?
+Giant Spider Brood 7.4	Giant Spider Brood 7.4	0	1,050	0
+Giant Spider Brood 7.6	Giant Spider Brood 7.6	0	1,100	0
+Giant Spider Brood 8.1	Giant Spider Brood 8.1	0	1,700	0
+Queen Nostalgia (2)	Queen Nostalgia (2)	0	1,700	0
+Giant Spider Drone 7.4	Giant Spider Drone 7.4	0	1,150	0
+Giant Spider Drone 7.6	Giant Spider Drone 7.6	0	?	?
+Giant Spider Drone 8.1	Giant Spider Drone 8.1	0	?	?
+Queen Nostalgia (3)	Queen Nostalgia (3)	0	?	?
+Giant Spider Hatchling 7.4	Giant Spider Hatchling 7.4	0	950	0
+Giant Spider Hatchling 7.6	Giant Spider Hatchling 7.6	0	?	?
+Giant Spider Hatchling 8.1	Giant Spider Hatchling 8.1	0	?	?
+Queen Nostalgia (1)	Queen Nostalgia (1)	0	?	?
+Giant Spider Warrior 7.4	Giant Spider Warrior 7.4	0	?	?
+Giant Spider Warrior 7.6	Giant Spider Warrior 7.6	0	?	?
+Giant Spider Warrior 8.1	Giant Spider Warrior 8.1	0	?	?
+Queen Nostalgia (4)	Queen Nostalgia (4)	0	?	?
+Knight Familiar	Knight Familiar	?	10,000	?
+Paladin Familiar	Paladin Familiar	?	15,000	?
+Druid Familiar	Druid Familiar	?	20,000	?
+Sorcerer Familiar	Sorcerer Familiar	?	20,000	?
+Furious Fire Elemental	Furious Fire Elemental	220	280	0.786
+Pooka	Pooka	500	500	1
+Swan Maiden	Swan Maiden	700	800	0.875
+Pixie	Pixie	700	770	0.909
+Boogy	Boogy	950	1,300	0.731
+Barkless Devotee	Barkless Devotee	2,200	2,800	0.786
+The Manhunter	The Manhunter	3,000	4,500	0.667
+Dark Faun	Dark Faun	900	1,100	0.818
+Weakened Frazzlemaw	Weakened Frazzlemaw	1,000	1,200	0.833
+Nymph	Nymph	850	900	0.944
+Twisted Pooka	Twisted Pooka	600	700	0.857
+Animated Clomp	Animated Clomp	475	900	0.528
+Animated Guzzlemaw	Animated Guzzlemaw	5,500	6,400	0.859
+Animated Mummy	Animated Mummy	150	240	0.625
+Animated Ogre Brute	Animated Ogre Brute	800	1,000	0.8
+Animated Ogre Savage	Animated Ogre Savage	950	1,400	0.679
+Animated Rotworm	Animated Rotworm	40	65	0.615
+Animated Cyclops	Animated Cyclops	150	260	0.577
+Putrid Mummy	Putrid Mummy	900	1,500	0.6
+Minotaur Cult Prophet	Minotaur Cult Prophet	1,100	1,700	0.647
+Orc Cult Minion	Orc Cult Minion	850	1,000	0.85
+Orc Cultist	Orc Cultist	950	1,350	0.704
+Orc Cult Inquisitor	Orc Cult Inquisitor	1,150	1,500	0.767
+Orc Cult Priest	Orc Cult Priest	1,000	1,300	0.769
+Orc Cult Fanatic	Orc Cult Fanatic	1,100	1,300	0.846
+Enfeebled Silencer	Enfeebled Silencer	1,100	1,100	1
+Kroazur	Kroazur	2,700	3,000	0.9
+Goldhanded Cultist	Goldhanded Cultist	2,000	3,000	0.667
+Goldhanded Cultist Bride	Goldhanded Cultist Bride	2,000	3,000	0.667
+The Armored Voidborn	The Armored Voidborn	?	60,000+	?
+The Sandking	The Sandking	?	?	?
+Leiden	Leiden	0?	30,000+?	?
+Cult Believer	Cult Believer	850	975	0.872
+Cult Enforcer	Cult Enforcer	1,000	1,150	0.87
+Cult Scholar	Cult Scholar	1,100	1,650	0.667
+Minotaur Cult Follower	Minotaur Cult Follower	950	1,600	0.594
+Minotaur Cult Zealot	Minotaur Cult Zealot	1,350	1,800	0.75
+Sphere of Wrath	Sphere of Wrath	0?	0?	?
+Minotaur Idol	Minotaur Idol	?	?	?
+Misguided Bully	Misguided Bully	1,200	2,000	0.6
+Misguided Thief	Misguided Thief	1,200	1,800	0.667
+The False God	The False God	50,000	300,000~	?
+Roaring Lion	Roaring Lion	800	1,000	0.8
+Sand Brood	Sand Brood	0	2,100	0
+Enraged Sand Brood	Enraged Sand Brood	0	2,600	0
+Sand Vortex	Sand Vortex	?	?	?
+Vermin Swarm	Vermin Swarm	?	2,800~	?
+The Sinister Hermit (Yellow)	The Sinister Hermit (Yellow)	?	?	?
+The Sinister Hermit (Blue)	The Sinister Hermit (Blue)	0	?	?
+Freed Soul	Freed Soul	?	?	?
+Misguided Shadow	Misguided Shadow	1,500	3,000	0.5
+Pillar of Draining	Pillar of Draining	0	?	?
+Pillar of Healing	Pillar of Healing	0	7,300	0
+Pillar of Summoning	Pillar of Summoning	0	?	?
+Pillar of Death	Pillar of Death	0	?	?
+Pillar of Protection	Pillar of Protection	0	?	?
+Destroyed Pillar	Destroyed Pillar	0	0	?
+Dread Minion	Dread Minion	0	2,500	0
+Liquor Spirit	Liquor Spirit	0	?	?
+Wine Cask (Creature)	Wine Cask (Creature)	0	?	?
+Security Golem	Security Golem	0	?	?
+Containment Machine	Containment Machine	0	6,500	0
+Voidshard	Voidshard	0	?	?
+Fox	Fox	15	22	0.682
+Werefox	Werefox	1,600	1,500	1.067
+Cave Devourer	Cave Devourer	2,380	4,500	0.529
+Deepworm	Deepworm	2,300	3,500	0.657
+Diremaw	Diremaw	2,500	3,600	0.694
+Chasm Spawn	Chasm Spawn	2,700	4,500	0.6
+Tunnel Tyrant	Tunnel Tyrant	3,400	5,200	0.654
+Lava Lurker	Lava Lurker	4,000	5,900	0.678
+Mole	Mole	100	200	0.5
+Ghost of a Planegazer	Ghost of a Planegazer	1,100	1,450	0.759
+Lost Exile	Lost Exile	1,800	1,600	1.125
+Stonerefiner	Stonerefiner	500	800	0.625
+Makeshift Home	Makeshift Home	1,800?	6,900?	?
+Bloodback	Bloodback	4,000	5,200	0.769
+Darkfang	Darkfang	4,000	4,800	0.833
+Black Vixen	Black Vixen	3,200	3,200	1
+Shadowpelt	Shadowpelt	4,600	6,000	0.767
+Cave Spider	Cave Spider	2,000	1,800	1.111
+The Count of the Core	The Count of the Core	?	500,000	?
+Ancient Spawn of Morgathla	Ancient Spawn of Morgathla	?	?	?
+Gnome Pack Crawler	Gnome Pack Crawler	?	?	?
+Lost Gnome	Lost Gnome	0	10,000	0
+Captured Dwarf	Captured Dwarf	?	?	?
+Aggressive Lava	Aggressive Lava	?	?	?
+Organic Matter	Organic Matter	?	?	?
+Ember Beast	Ember Beast	0	?	?
+Fiery Blood	Fiery Blood	0	25,000	0
+Burrowing Beetle	Burrowing Beetle	?	?	?
+Fiery Heart (Creature)	Fiery Heart (Creature)	?	7,500?	?
+The Fire Empowered Duke	The Fire Empowered Duke	?	?	?
+The Source of Corruption	The Source of Corruption	0?	0?	?
+The Remorseless Corruptor	The Remorseless Corruptor	?	?	?
+Zarcorix of Yalahar	Zarcorix of Yalahar	?	?	?
+Soul Reaper	Soul Reaper	?	?	?
+Stolen Soul	Stolen Soul	?	?	?
+Dark Soul	Dark Soul	?	?	?
+The Corruptor of Souls	The Corruptor of Souls	?	?	?
+Containment Crystal	Containment Crystal	0	?	?
+Dawn Bat	Dawn Bat	10	30	0.333
+Last Planegazer	Last Planegazer	10,000?	50,000	?
+Reflection of a Mage	Reflection of a Mage	3,250	3,500	0.929
+Reflection of Mawhawk	Reflection of Mawhawk	14,000	45,000	0.311
+Reflection of Obujos	Reflection of Obujos	20,000?	35,000?	?
+Aggressive Matter	Aggressive Matter	0	3,000?	?
+The Hungry Baron from Below	The Hungry Baron from Below	?	?	?
+Snail Slime	Snail Slime	0	5,000	0
+Fallen Challenger	Fallen Challenger	0	9,000	0
+Unbeatable Dragon	Unbeatable Dragon	0	?	?
+Somewhat Beatable Dragon	Somewhat Beatable Dragon	0	?	?
+Dragon Essence	Dragon Essence	?	30,000+	?
+Ravenous Lava Lurker	Ravenous Lava Lurker	4,000	5,000	0.8
+Sword of Vengeance	Sword of Vengeance	?	?	?
+Ravenous Hunger	Ravenous Hunger	?	?	?
+Sparkion	Sparkion	1,520	2,700	0.563
+Museum Stone Golem	Museum Stone Golem	160	270	0.593
+Museum Stone Rhino	Museum Stone Rhino	1,800	3,000	0.6
+Animated Ogre Shaman	Animated Ogre Shaman	625	800	0.781
+Knowledge Elemental	Knowledge Elemental	10,603	10,500	1.01
+Raxias	Raxias	900	1,100	0.818
+Arctic Faun	Arctic Faun	300	300	1
+Deathling Scout	Deathling Scout	6,300	7,200	0.875
+Falcon Knight	Falcon Knight	5,985	9,000	0.665
+Falcon Paladin	Falcon Paladin	6,544	8,500	0.77
+Undead Elite Gladiator	Undead Elite Gladiator	4,740	8,000	0.593
+Energetic Book	Energetic Book	12,034	18,500	0.65
+Cursed Book	Cursed Book	13,345	20,000	0.667
+Burning Book	Burning Book	11,934	18,000	0.663
+Icecold Book	Icecold Book	12,750	21,000	0.607
+Guardian of Tales	Guardian of Tales	9,204	15,000	0.614
+Energuardian of Tales	Energuardian of Tales	11,361	14,000	0.812
+Rage Squid	Rage Squid	14,820	17,000	0.872
+Squid Warden	Squid Warden	15,300	16,500	0.927
+Animated Feather	Animated Feather	9,860	13,000	0.758
+Frost Flower Asura	Frost Flower Asura	4,200	3,500	1.2
+True Dawnfire Asura	True Dawnfire Asura	7,475	8,500	0.879
+True Frost Flower Asura	True Frost Flower Asura	7,069	4,000	1.767
+Floating Savant	Floating Savant	8,000	8,000	1
+Brain Squid	Brain Squid	17,672	18,000	0.982
+Flying Book	Flying Book	200	500	0.4
+Ink Blob	Ink Blob	14,450	9,500	1.521
+Biting Book	Biting Book	9,350	6,500	1.438
+Grand Canon Dominus	Grand Canon Dominus	11,000	15,000	0.733
+Grand Commander Soeren	Grand Commander Soeren	12,000	17,000	0.706
+Grand Chaplain Gaunder	Grand Chaplain Gaunder	14,000	18,000	0.778
+Thawing Dragon Lord	Thawing Dragon Lord	2,100	25,000	0.084
+Bone Jaw	Bone Jaw	0	4,500	0
+Ghulosh' Deathgaze	Ghulosh' Deathgaze	0	?	?
+Concentrated Death	Concentrated Death	0	?	?
+Mean Minion	Mean Minion	0	?	?
+Ghulosh	Ghulosh	45,000	?	?
+Lokathmor	Lokathmor	55,000	?	?
+Gorzindel	Gorzindel	55,000	?	?
+Mazzinor	Mazzinor	55,000	?	?
+Force Field	Force Field	0	?	?
+Supercharged Mazzinor	Supercharged Mazzinor	?	?	?
+Wild Knowledge	Wild Knowledge	0	?	?
+Demon Blood	Demon Blood	0	?	?
+Neutral Deepling Warrior	Neutral Deepling Warrior	1,500	1,600	0.938
+Stolen Knowledge of Summoning	Stolen Knowledge of Summoning	0	?	?
+Stolen Knowledge of Armor	Stolen Knowledge of Armor	0	?	?
+Stolen Knowledge of Healing	Stolen Knowledge of Healing	0	?	?
+Stolen Knowledge of Lifesteal	Stolen Knowledge of Lifesteal	0	?	?
+Stolen Knowledge of Spells	Stolen Knowledge of Spells	0	?	?
+Librarian	Librarian	0	11,000	0
+Stolen Tome of Portals	Stolen Tome of Portals	0	?	?
+Dark Knowledge	Dark Knowledge	0	?	?
+Jailer	Jailer	45	65	0.692
+Dazed Leaf Golem	Dazed Leaf Golem	8,000	10,000	0.8
+Amarie (Creature)	Amarie (Creature)	?	?	?
+Grodrik (Creature)	Grodrik (Creature)	?	?	?
+Knowledge Raider	Knowledge Raider	0	?	?
+Grand Master Oberon	Grand Master Oberon	20,000	30,000	0.667
+Deathling Spellsinger	Deathling Spellsinger	6,400	7,200	0.889
+Horse (Brown)	Horse (Brown)	0	75	0
+Horse (Grey)	Horse (Grey)	0	75	0
+Furious Scorpion	Furious Scorpion	12,000	15,000	0.8
+Lava Lurker Attendant	Lava Lurker Attendant	?	?	?
+The Spellstealer	The Spellstealer	?	?	?
+The Blazing Rose	The Blazing Rose	10,000	?	?
+The Lily of Night	The Lily of Night	10,000	19,000	0.526
+The Book of Death	The Book of Death	0	7,800	0
+Yalahari Despoiler	Yalahari Despoiler	0	?	?
+Demon Slave	Demon Slave	?	?	?
+Rift Minion	Rift Minion	0	?	?
+Rift Breacher	Rift Breacher	0	?	?
+Ravenous Beyondling	Ravenous Beyondling	0	?	?
+Spawn of Havoc	Spawn of Havoc	0	?	?
+Imp Intruder	Imp Intruder	?	?	?
+Rift Spawn	Rift Spawn	0	?	?
+The Scion of Havoc	The Scion of Havoc	?	?	?
+Invading Demon	Invading Demon	0	?	?
+Malicious Minion	Malicious Minion	0	4,000	0
+The Scourge of Oblivion	The Scourge of Oblivion	75,000	?	?
+Ice Dragon	Ice Dragon	2,300	2,500	0.92
+Brother Chill	Brother Chill	?	?	?
+Brother Freeze	Brother Freeze	?	?	?
+The Devourer of Secrets	The Devourer of Secrets	?	?	?
+War Servant	War Servant	0	?	?
+Giant Spider	Giant Spider	900	1,300	0.692
+Skeleton Elite Warrior	Skeleton Elite Warrior	4,500	7,800	0.577
+Moohtant	Moohtant	2,600	3,200	0.813
+Biting Cold	Biting Cold	0	?	?
+The Book of Secrets	The Book of Secrets	?	8,000	?
+Lloyd	Lloyd	~50,000	~64,000	?
+Arachnophobica	Arachnophobica	4,700	5,000	0.94
+Burster Spectre	Burster Spectre	6,000	6,500	0.923
+Gazer Spectre	Gazer Spectre	4,200	4,500	0.933
+Insane Siren	Insane Siren	6,000	6,500	0.923
+Menacing Carnivor	Menacing Carnivor	2,112	3,500	0.603
+Ripper Spectre	Ripper Spectre	3,500	3,800	0.921
+Soul-Broken Harbinger	Soul-Broken Harbinger	5,800	6,300	0.921
+Spiky Carnivor	Spiky Carnivor	1,650	2,800	0.589
+Thanatursus	Thanatursus	6,300	7,200	0.875
+Lumbering Carnivor	Lumbering Carnivor	1,452	2,600	0.558
+Crazed Summer Rearguard	Crazed Summer Rearguard	4,700	5,300	0.887
+Crazed Summer Vanguard	Crazed Summer Vanguard	5,000	5,500	0.909
+Crazed Winter Rearguard	Crazed Winter Rearguard	4,700	5,200	0.904
+Crazed Winter Vanguard	Crazed Winter Vanguard	5,400	5,800	0.931
+Hibernal Moth	Hibernal Moth	700	850	0.824
+Lacewing Moth	Lacewing Moth	800	900	0.889
+Faceless Bane	Faceless Bane	14,000	17,000	0.824
+Lucifuga Aranea	Lucifuga Aranea	10,000	12,000	0.833
+The Nightmare Beast	The Nightmare Beast	255,000	?	?
+Alptramun	Alptramun	55,000	?	?
+Izcandar the Banished	Izcandar the Banished	?	?	?
+Izcandar Champion of Winter	Izcandar Champion of Winter	55,000	?	?
+Izcandar Champion of Summer	Izcandar Champion of Summer	?	?	?
+Malofur Mangrinder	Malofur Mangrinder	?	?	?
+The Cold of Winter	The Cold of Winter	0	?	?
+The Heat of Summer	The Heat of Summer	0	?	?
+Nightmare Tendril	Nightmare Tendril	0	?	?
+Desperate Soul	Desperate Soul	?	?	?
+The Shatterer	The Shatterer	?	?	?
+Plagueroot	Plagueroot	55,000	?	?
+Maxxenius	Maxxenius	55,000	?	?
+The Unarmored Voidborn	The Unarmored Voidborn	15,000	250,000	0.06
+Essence of Malice	Essence of Malice	150,000	250,000	0.6
+The Duke of the Depths	The Duke of the Depths	?	?	?
+The Souldespoiler	The Souldespoiler	50,000	290,000	0.172
+The Baron from Below	The Baron from Below	?	?	?
+Animated Snowman	Animated Snowman	400	450	0.889
+Baleful Bunny	Baleful Bunny	450	500	0.9
+Wyrm	Wyrm	1,550	1,825	0.849
+Percht	Percht	600	620	0.968
+Schiach	Schiach	580	600	0.967
+Bonny Bunny	Bonny Bunny	0	200	0
+Warm Fire	Warm Fire	?	?	?
+Percht Minion	Percht Minion	?	?	?
+The Percht Queen	The Percht Queen	500	2,300	0.217
+Plant Abomination	Plant Abomination	0	3,900	0
+Plant Attendant	Plant Attendant	0	?	?
+Horrible Dream	Horrible Dream	0	?	?
+Nightmarish Dream	Nightmarish Dream	0	?	?
+Mind-Wrecking Dream	Mind-Wrecking Dream	0	?	?
+Unpleasant Dream	Unpleasant Dream	0	?	?
+Whirling Blades	Whirling Blades	0	?	?
+Goblin Leader	Goblin Leader	75	50	1.5
+Hellflayer	Hellflayer	11,720	14,000	0.837
+The Fettered Shatterer	The Fettered Shatterer	?	?	?
+Barkless Fanatic	Barkless Fanatic	2,500	3,200	0.781
+Vortex Spawn	Vortex Spawn	0	500	0
+Murderous Ghost	Murderous Ghost	0	1,500	0
+Death Reaper	Death Reaper	?	?	?
+Dreadful Disruptor	Dreadful Disruptor	14,000	10,000?	?
+Gryphon	Gryphon	1,000	3,200	0.313
+Lamassu	Lamassu	9,000	8,700	1.034
+Manticore	Manticore	4,750	6,700	0.709
+Sphinx	Sphinx	6,980	8,500	0.821
+Urmahlullu the Immaculate	Urmahlullu the Immaculate	?	120,000?	?
+Cobra Assassin	Cobra Assassin	6,980	8,200	0.851
+Cobra Scout	Cobra Scout	7,310	8,500	0.86
+Cobra Vizier	Cobra Vizier	7,650	8,500	0.9
+Black Sphinx Acolyte	Black Sphinx Acolyte	7,200	8,100	0.889
+Feral Sphinx	Feral Sphinx	8,450	9,800	0.862
+Crypt Warden	Crypt Warden	8,400	8,300	1.012
+Young Goanna	Young Goanna	5,250	6,950	0.755
+Adult Goanna	Adult Goanna	6,180	8,300	0.745
+Priestess of the Wild Sun	Priestess of the Wild Sun	6,400	8,500	0.753
+Bragrumol	Bragrumol	18,000	38,000	0.474
+Xogixath	Xogixath	22,000	?	?
+Ogre Ruffian	Ogre Ruffian	5,000	5,500	0.909
+Ogre Rowdy	Ogre Rowdy	4,200	4,500	0.933
+Ogre Sage	Ogre Sage	5,500	4,800	1.146
+Mozradek	Mozradek	21,000	28,000	0.75
+Sun-Marked Goanna	Sun-Marked Goanna	7,600	7,800	0.974
+Count Vlarkorth	Count Vlarkorth	?	?	?
+Custodian	Custodian	27,500	47,000	0.585
+Gaffir	Gaffir	25,000	48,500	0.515
+Duke Krule	Duke Krule	55,000	?	?
+Sir Nictros	Sir Nictros	55,000	?	?
+Sir Baeloc	Sir Baeloc	55,000	?	?
+Earl Osam	Earl Osam	55,000	?	?
+Scarlett Etzel	Scarlett Etzel	20,000	30,000	0.667
+Earworm	Earworm	2,000	4,000	0.5
+King Zelos	King Zelos	?	400,000?	?
+Wildness of Urmahlullu	Wildness of Urmahlullu	?	?	?
+Wisdom of Urmahlullu	Wisdom of Urmahlullu	?	?	?
+Urmahlullu the Tamed	Urmahlullu the Tamed	?	?	?
+Cart Packed with Gold	Cart Packed with Gold	0	10,000	0
+Soulless Minion	Soulless Minion	?	?	?
+Lord Azaram	Lord Azaram	55,000	?	?
+Dark Paladin	Dark Paladin	?	?	?
+Dark Knight	Dark Knight	?	?	?
+Dark Sorcerer	Dark Sorcerer	?	?	?
+Dark Druid	Dark Druid	?	?	?
+Burning Gladiator	Burning Gladiator	7,350	10,000	0.735
+Cow	Cow	400	700	0.571
+Orger	Orger	550	700	0.786
+Bellicose Orger	Bellicose Orger	500	700	0.714
+Loricate Orger	Loricate Orger	570	750	0.76
+Roast Pork	Roast Pork	280	420	0.667
+Ugly Monster	Ugly Monster	1,000	10,000	0.1
+Annoying Dog	Annoying Dog			?
+Eating Dog	Eating Dog	--	--	?
+Flimsy Lost Soul	Flimsy Lost Soul	4,500	4,000	1.125
+Mean Lost Soul	Mean Lost Soul	5,580	5,000	1.116
+Freakish Lost Soul	Freakish Lost Soul	7,020	7,000	1.003
+Brain Head	Brain Head	?	?	?
+Evil Prospector	Evil Prospector	9,000	8,500	1.059
+Cursed Prospector	Cursed Prospector	5,250	3,900	1.346
+Guard Captain Quaid	Guard Captain Quaid	28,000	55,000	0.509
+Cerebellum	Cerebellum	?	?	?
+Unaz the Mean	Unaz the Mean	22,000	28,000	0.786
+Irgix the Flimsy	Irgix the Flimsy	18,000	24,000	0.75
+Vok the Freakish	Vok the Freakish	27,000	32,000	0.844
+Thaian	Thaian	9,000	50,000	0.18
+Thaian's Ghost	Thaian's Ghost	4,500	5,000	0.9
+The Unwelcome	The Unwelcome	?	?	?
+Wormling	Wormling	?	?	?
+Brother Worm	Brother Worm	?	?	?
+The Dread Maiden	The Dread Maiden	72,000	300,000	0.24
+Red Soul Stealer	Red Soul Stealer	?	?	?
+Green Soul Stealer	Green Soul Stealer	?	?	?
+Blue Soul Stealer	Blue Soul Stealer	?	?	?
+The Fear Feaster	The Fear Feaster	?	?	?
+Horror	Horror	?	?	?
+Fear	Fear	?	?	?
+Phobia	Phobia	?	?	?
+Symbol of Fear	Symbol of Fear	?	?	?
+Empty	Empty	?	?	?
+Innocent Soul	Innocent Soul	?	?	?
+Greed Worm	Greed Worm	?	?	?
+The Pale Worm	The Pale Worm	80,000	?	?
+Hunger Worm	Hunger Worm	?	?	?
+A Weak Spot	A Weak Spot	?	?	?
+Wandering Prospector	Wandering Prospector	?	?	?
+Bad Thought	Bad Thought	0	500	0
+Rewar the Bloody	Rewar the Bloody	?	?	?
+Risen Soldier	Risen Soldier	0	6,000	0
+Fetter	Fetter	0	5,500	0
+The Red Knight	The Red Knight	0	?	?
+Magnor Mournbringer	Magnor Mournbringer	0	?	?
+Shard of Magnor	Shard of Magnor	0	?	?
+Vampiric Blood	Vampiric Blood	0	3,500	0
+Regenerating Mass	Regenerating Mass	0	?	?
+Unleashed Hex	Unleashed Hex	0	?	?
+Condensed Sin	Condensed Sin	0	?	?
+Azaram's Soul	Azaram's Soul	0	?	?
+Tainted Soul Splinter	Tainted Soul Splinter	0	?	?
+Frozen Soul	Frozen Soul	0	?	?
+Magical Sphere	Magical Sphere	0	?	?
+Squire of Nictros	Squire of Nictros	0	?	?
+Retainer of Baeloc	Retainer of Baeloc	0	?	?
+Soul Scourge	Soul Scourge	0	?	?
+Nargol the Impaler	Nargol the Impaler	0	?	?
+Animated Moohtant	Animated Moohtant	2,600	3,200	0.813
+The Lord of the Lice	The Lord of the Lice	0	80,000	0
+Animated Skunk	Animated Skunk	3?	20?	?
+Nightmare	Nightmare	1,800	2,700	0.667
+Hunter	Hunter	150	150	1
+King Chuck	King Chuck	?	?	?
+The Great Schnitzel	The Great Schnitzel	0	110,000	0
+Fat Porker	Fat Porker	?	20,000	?
+Orger Treasure	Orger Treasure	0	50,000	0
+Spawn of the Schnitzel	Spawn of the Schnitzel	0	1,000	0
+Black Cobra	Black Cobra	0	10,000+	?
+Greater Canopic Jar	Greater Canopic Jar	0	7,000	0
+Planestrider	Planestrider	9,000?	30,000+	?
+Lost Ghost of a Planegazer	Lost Ghost of a Planegazer	?	?	?
+Planedweller	Planedweller	?	?	?
+Aggressive Chicken	Aggressive Chicken	0	15,000	0
+Agrestic Chicken	Agrestic Chicken	0	15	0
+Bony Sea Devil	Bony Sea Devil	17,328	24,000	0.722
+Brachiodemon	Brachiodemon	15,770	25,000	0.631
+Branchy Crawler	Branchy Crawler	17,324	27,000	0.642
+Cloak of Terror	Cloak of Terror	19,700	28,000	0.704
+Courage Leech	Courage Leech	18,900	27,000	0.7
+Infernal Demon	Infernal Demon	17,430	32,000	0.545
+Many Faces	Many Faces	18,870	30,000	0.629
+Monk of the Order	Monk of the Order	200	240	0.833
+Rotten Golem	Rotten Golem	17,324	28,000	0.619
+Turbulent Elemental	Turbulent Elemental	17,230	28,000	0.615
+White Lion	White Lion	2,300	2,700	0.852
+Werehyaena	Werehyaena	2,200	2,700	0.815
+Werehyaena Shaman	Werehyaena Shaman	2,200	2,500	0.88
+Vibrant Phantom	Vibrant Phantom	19,700	27,000	0.73
+Capricious Phantom	Capricious Phantom	17,230	30,000	0.574
+Infernal Phantom	Infernal Phantom	15,770	26,000	0.607
+Mould Phantom	Mould Phantom	17,780	28,000	0.635
+Distorted Phantom	Distorted Phantom	18,870	26,000	0.726
+Ancient Lion Archer	Ancient Lion Archer	?	?	?
+Ancient Lion Knight	Ancient Lion Knight	8,100	9,100	0.89
+Ancient Lion Warlock	Ancient Lion Warlock	?	?	?
+Lion Archer	Lion Archer	0	7,300	0
+Lion Knight	Lion Knight	0	8,200	0
+Lion Warlock	Lion Warlock	0	7,500	0
+Usurper Archer	Usurper Archer	6,800	7,300	0.932
+Usurper Knight	Usurper Knight	6,900	8,200	0.841
+Usurper Warlock	Usurper Warlock	7,000	7,500	0.933
+Druid's Apparition	Druid's Apparition	18,870	25,000	0.755
+Knight's Apparition	Knight's Apparition	18,870	25,000	0.755
+Paladin's Apparition	Paladin's Apparition	18,870	25,000	0.755
+Sorcerer's Apparition	Sorcerer's Apparition	18,870	25,000	0.755
+Goshnar's Cruelty	Goshnar's Cruelty	75,000	?	?
+Goshnar's Greed	Goshnar's Greed	150,000	?	?
+Goshnar's Hatred	Goshnar's Hatred	75,000	?	?
+Goshnar's Malice	Goshnar's Malice	75,000	?	?
+Goshnar's Megalomania	Goshnar's Megalomania	?	?	?
+Goshnar's Spite	Goshnar's Spite	75,000	?	?
+Hazardous Phantom	Hazardous Phantom	66,000	70,000	0.943
+Mirror Image	Mirror Image	27,000	35,000	0.771
+Fugue	Fugue	23,000	32,000	0.719
+Usurper Commander	Usurper Commander	7,200	8,500	0.847
+Drume	Drume	25,000	35,000	0.714
+Katex Blood Tongue	Katex Blood Tongue	5,000	6,300	0.794
+Srezz Yellow Eyes	Srezz Yellow Eyes	4,800	6,200	0.774
+Utua Stone Sting	Utua Stone Sting	5,100	6,400	0.797
+Yirkas Blue Scales	Yirkas Blue Scales	4,900	6,300	0.778
+Crypt Warrior	Crypt Warrior	5,500	7,800	0.705
+Kesar	Kesar	?	?	?
+Hardened Usurper Archer	Hardened Usurper Archer	0	7,300	0
+Hardened Usurper Knight	Hardened Usurper Knight	0	8,200	0
+Hardened Usurper Warlock	Hardened Usurper Warlock	0	7,500	0
+Lion Commander	Lion Commander	0	8,500	0
+True Midnight Asura	True Midnight Asura	7,313	9,000	0.813
+Strange Rat	Strange Rat	?	?	?
+Angry King Chuck	Angry King Chuck	?	?	?
+Food Wagon	Food Wagon	?	?	?
+Celebrating Orger	Celebrating Orger	?	?	?
+Slowing Slime	Slowing Slime	--	--	?
+Used Food Wagon	Used Food Wagon	?	?	?
+Damned Soul	Damned Soul	1	800	0.001
+Quara Constrictor Scout	Quara Constrictor Scout	200	450	0.444
+Bone Capsule	Bone Capsule	?	?	?
+Blood Tear	Blood Tear	0	3,500	0
+Channeling Earl Osam	Channeling Earl Osam	0	?	?
+Mezlon the Defiler	Mezlon the Defiler	50,000	?	?
+The Last Lore Keeper	The Last Lore Keeper	45,000?	?	?
+Exotic Cave Spider	Exotic Cave Spider	1,400	1,900	0.737
+Exotic Bat	Exotic Bat	1,200	1,500	0.8
+Angry Elemental	Angry Elemental	0	7,000	0
+Pirat Cutthroat	Pirat Cutthroat	1,800	2,600	0.692
+Pirat Bombardier	Pirat Bombardier	1,700	2,300	0.739
+Pirat Mate	Pirat Mate	2,400	3,200	0.75
+Werelioness	Werelioness	2,300	3,000	0.767
+Spyrat (Facing South)	Spyrat (Facing South)	2,500	3,000	0.833
+Spyrat (Facing North)	Spyrat (Facing North)	2,500	3,000	0.833
+Spyrat (Facing East)	Spyrat (Facing East)	2,500	3,000	0.833
+Spyrat (Facing West)	Spyrat (Facing West)	2,500	3,000	0.833
+Tentugly's Head	Tentugly's Head	40,000	?	?
+The Hungerer	The Hungerer	1,700	2,000	0.85
+Greedbeast	Greedbeast			?
+Spy Rat	Spy Rat	?	?	?
+Cheese Thief	Cheese Thief	0	1,100	0
+Ratmiral Blackwhiskers	Ratmiral Blackwhiskers	?	?	?
+Pirat Guard	Pirat Guard	?	?	?
+Pirat Patrol	Pirat Patrol	?	?	?
+Gust of Wind	Gust of Wind	?	?	?
+Sea Serpent (Journey)	Sea Serpent (Journey)	?	?	?
+Quara Saboteur	Quara Saboteur	0	7,000	0
+Mean Termite	Mean Termite	0	4,300	0
+Holy Bog Frog	Holy Bog Frog	0	25	0
+Tentacle	Tentacle	0	2,500	0
+Ogre Shaman	Ogre Shaman	625	800	0.781
+Samael	Samael	?	?	?
+Servant of Tentugly	Servant of Tentugly	?	?	?
+Ghastly Dragon	Ghastly Dragon	4,600	7,800	0.59
+Gravedigger	Gravedigger	950	1,500	0.633
+Human (Creature)	Human (Creature)	50	150	0.333
+Mystic Energy	Mystic Energy	--	--	?
+Dreadful Harvester	Dreadful Harvester	?	?	?
+Malicious Soul	Malicious Soul	?	?	?
+Weak Soul	Weak Soul	?	?	?
+Soulsnatcher	Soulsnatcher	?	?	?
+Strong Soul	Strong Soul	?	?	?
+Powerful Soul	Powerful Soul	?	?	?
+Weeping Soul	Weeping Soul	?	?	?
+Spiteful Spitter	Spiteful Spitter	?	?	?
+Poor Soul	Poor Soul	?	1,000	?
+Mean Maw	Mean Maw	?	?	?
+A Greedy Eye	A Greedy Eye	?	?	?
+Hateful Soul	Hateful Soul	?	?	?
+Symbol of Hatred	Symbol of Hatred	?	?	?
+Soul Sphere	Soul Sphere	?	15.000	?
+Aspect of Power	Aspect of Power			?
+Lavaworm	Lavaworm	6,500	7,500	0.867
+Tremendous Tyrant	Tremendous Tyrant	6,950	11,500	0.604
+Varnished Diremaw	Varnished Diremaw	6,300	9,000	0.7
+Eyeless Devourer	Eyeless Devourer	6,000	10,000	0.6
+Blemished Spawn	Blemished Spawn	5,300	9,000	0.589
+Afflicted Strider	Afflicted Strider	6,550	10,000	0.655
+Lavafungus	Lavafungus	6,200	7,200	0.861
+Cave Chimera	Cave Chimera	6,800	8,000	0.85
+Girtablilu Warrior	Girtablilu Warrior	5,800	8,500	0.682
+Venerable Girtablilu	Venerable Girtablilu	5,300	8,500	0.624
+Bashmu	Bashmu	5,000	8,200	0.61
+Juvenile Bashmu	Juvenile Bashmu	4,500	7,500	0.6
+Hulking Carnisylvan	Hulking Carnisylvan	4,700	8,600	0.547
+Poisonous Carnisylvan	Poisonous Carnisylvan	4,400	8,000	0.55
+Dark Carnisylvan	Dark Carnisylvan	4,400	7,500	0.587
+Carnisylvan Sapling	Carnisylvan Sapling	0	750	0
+The Brainstealer	The Brainstealer	?	?	?
+Spider	Spider	12	20	0.6
+Domestikion	Domestikion	0	750	0
+Hoodinion	Hoodinion	0	800	0
+Mearidion	Mearidion	0	850	0
+Murmillion	Murmillion	0	1,100	0
+Scissorion	Scissorion	0	950	0
+The Mega Magmaoid	The Mega Magmaoid	80,000	?	?
+Haunted Treeling	Haunted Treeling	310	450	0.689
+Leaf Golem	Leaf Golem	45	90	0.5
+Abominable Spawn	Abominable Spawn	?	?	?
+Glowing Lava	Glowing Lava			?
+Neferi the Spy	Neferi the Spy	19,650	28,000	0.702
+Amenef the Burning	Amenef the Burning	21,500	26,000	0.827
+Sister Hetai	Sister Hetai	20,500	25,000	0.82
+Lonely Frazzlemaw	Lonely Frazzlemaw	?	?	?
+Lonely Deer	Lonely Deer	?	?	?
+Lonely Snake	Lonely Snake	?	?	?
+Lonely Yielothax	Lonely Yielothax	?	?	?
+Lonely Rotworm	Lonely Rotworm	?	?	?
+Lonely Scorpion	Lonely Scorpion	?	?	?
+Lonely Polar Bear	Lonely Polar Bear	?	?	?
+Lonely Souleater	Lonely Souleater	?	?	?
+Lesser Splinter of Madness	Lesser Splinter of Madness	?	?	?
+Greater Splinter of Madness	Greater Splinter of Madness	?	?	?
+Mighty Splinter of Madness	Mighty Splinter of Madness	?	?	?
+Magma Fiend	Magma Fiend	0	1,600	0
+Instable Fire	Instable Fire	0	1,000	0
+Raccoon Supplies	Raccoon Supplies	?	?	?
+Enusat the Onyx Wing	Enusat the Onyx Wing	21,500	25,000	0.86
+Megasylvan Yselda	Megasylvan Yselda	19,900	32,000	?
+Thieving Squirrel	Thieving Squirrel	15	55	0.273
+Fleeting Thought	Fleeting Thought	0	?	?
+Brain Parasite	Brain Parasite	0	?	?
+Mental-Nexus	Mental-Nexus	0	?	?
+Morshabaal	Morshabaal	?	1,000,000	?
+Lord Retro	Lord Retro	0	2,500	0
+Time Travelling Tourist	Time Travelling Tourist	?	?	?
+Unexpected	Unexpected	1,800	3,500	0.514
+Unsolicited	Unsolicited	1,750	3,700	0.473
+Unwanted	Unwanted	1,720	3,750	0.459
+Retros Treasure	Retros Treasure	0	37,500	0
+Uninvited	Uninvited	2,000	4,700	0.426
+Memory of a Carnisylvan	Memory of a Carnisylvan	1,850	3,800	0.487
+Memory of a Werelion	Memory of a Werelion	1,800	3,880	0.464
+Memory of a Manticore	Memory of a Manticore	1,590	3,730	0.426
+Pig (Nostalgia)	Pig (Nostalgia)	0	25	0
+Memory of a Book	Memory of a Book	1,770	3,670	0.482
+Memory of a Faun	Memory of a Faun	1,600	3,500	0.457
+Memory of a Shaper	Memory of a Shaper	1,750	3,710	0.472
+Memory of an Ogre	Memory of an Ogre	1,680	3,570	0.471
+Memory of a Golem	Memory of a Golem	1,620	3,660	0.443
+Memory of a Frazzlemaw	Memory of a Frazzlemaw	1,810	3,770	0.48
+Memory of a Fungus	Memory of a Fungus	1,660	3,580	0.464
+Memory of an Insectoid	Memory of an Insectoid	1,610	3,630	0.444
+Memory of a Lizard	Memory of a Lizard	1,450	3,520	0.412
+Memory of a Vampire	Memory of a Vampire	1,550	3,650	0.425
+Memory of a Yalahari	Memory of a Yalahari	1,640	3,540	0.463
+Memory of a Mammoth	Memory of a Mammoth	1,830	3,850	0.475
+Memory of a Pirate	Memory of a Pirate	1,500	3,750	0.4
+Memory of a Hydra	Memory of a Hydra	1,800	3,550	0.507
+Memory of a Scarab	Memory of a Scarab	1,590	3,620	0.439
+Memory of an Amazon	Memory of an Amazon	1,480	3,600	0.411
+Memory of a Banshee	Memory of a Banshee	1,430	3,600	0.397
+Memory of a Hero	Memory of a Hero	1,750	3,850	0.455
+Memory of an Elf	Memory of an Elf	1,440	3,440	0.419
+Memory of a Dwarf	Memory of a Dwarf	1,460	3,730	0.391
+Memory of a Wolf	Memory of a Wolf	1,640	3,640	0.451
+Lucky Dragon	Lucky Dragon		?	?
+Minor Timedisplaced Anomaly (Rookgaard)	Minor Timedisplaced Anomaly (Rookgaard)	0	40,000	0
+Enraged Morshabaal	Enraged Morshabaal	?	1,000,000	?
+Furious Morshabaal	Furious Morshabaal	?	1,000,000	?
+Streaked Devourer	Streaked Devourer	6,300	7,000	0.9
+Minor Timedisplaced Anomaly (Greenshore)	Minor Timedisplaced Anomaly (Greenshore)	0	44,000	0
+Minor Timedisplaced Anomaly (Ankrahmun)	Minor Timedisplaced Anomaly (Ankrahmun)	0	48,000	0
+Timedisplaced Anomaly (Banuta)	Timedisplaced Anomaly (Banuta)	0	52,500	0
+Timedisplaced Anomaly (Chazorai)	Timedisplaced Anomaly (Chazorai)	0	56,000	0
+Timedisplaced Anomaly (Warzone)	Timedisplaced Anomaly (Warzone)	0	60,000	0
+Major Timedisplaced Anomaly (Rascacoon)	Major Timedisplaced Anomaly (Rascacoon)	0	65,000	0
+Major Timedisplaced Anomaly (Issavi)	Major Timedisplaced Anomaly (Issavi)	0	70,000	0
+Major Timedisplaced Anomaly (Fiehonja)	Major Timedisplaced Anomaly (Fiehonja)	0	75,000	0
+Great Timedisplaced Anomaly	Great Timedisplaced Anomaly	0	250,000	0
+Wilting Leaf Golem	Wilting Leaf Golem	145	380	0.382
+Parcel Castle	Parcel Castle	?	?	?
+Time Distortion	Time Distortion	?	?	?
+Minor Bug	Minor Bug	?	?	?
+Major Bug	Major Bug	?	?	?
+Toxic Tibia Troll	Toxic Tibia Troll	?	?	?
+Orc Musician	Orc Musician	?	?	?
+Pirat Scoundrel	Pirat Scoundrel	1,600	2,200	0.727
+Preceptor Lazare	Preceptor Lazare	10,000	16,000?	?
+Symbol of Pain	Symbol of Pain	--	--	?
+Naga Archer	Naga Archer	5,150	4,640	1.11
+Naga Warrior	Naga Warrior	5,890	5,530	1.065
+Parder	Parder	1,100	1,200	0.917
+Makara	Makara	5,720	5,050	1.133
+Foam Stalker	Foam Stalker	3,525	4,500	0.783
+Jungle Moa	Jungle Moa	1,200	1,300	0.923
+Thorn Steed	Thorn Steed	0	?	?
+Tunnel Devourer	Tunnel Devourer	?	?	?
+Two-Headed Turtle	Two-Headed Turtle	3,310	5,010	0.661
+Mantosaurus	Mantosaurus	11,569	19,400	0.596
+Stalking Stalk	Stalking Stalk	11,569	17,100	0.677
+Undertaker	Undertaker	13,543	20,100	0.674
+Sulphider	Sulphider	13,328	21,000	0.635
+Noxious Ripptor	Noxious Ripptor	13,190	22,700	0.581
+Hulking Prehemoth	Hulking Prehemoth	12,690	20,700	0.613
+Nighthunter	Nighthunter	12,647	19,200	0.659
+Gore Horn	Gore Horn	12,595	20,620	0.611
+Mercurial Menace	Mercurial Menace	12,095	18,500	0.654
+Emerald Tortoise	Emerald Tortoise	12,129	22,300	0.544
+Gorerilla	Gorerilla	13,172	16,850	0.782
+Shrieking Cry-Stal	Shrieking Cry-Stal	13,560	20,650	0.657
+Sulphur Spouter	Sulphur Spouter	11,517	19,000	0.606
+Plunder Patriarch	Plunder Patriarch	0	?	?
+Headpecker	Headpecker	12,026	16,300	0.738
+Fungosaurus	Fungosaurus	0	30,000	0
+Timira the Many-Headed	Timira the Many-Headed	45,500	75,000	0.607
+The End of Days	The End of Days	0	90,000	0
+Kusuma	Kusuma	9,380	7,650	1.226
+The Primal Menace	The Primal Menace	0		?
+Magma Bubble	Magma Bubble	80,000	?	?
+The Winter Bloom	The Winter Bloom	9,250	4,750	1.947
+The Moonlight Aster	The Moonlight Aster	9,250	4,500	2.056
+Rogue Naga	Rogue Naga	4,510	6,200	0.727
+Corrupt Naga	Corrupt Naga	4,380	5,990	0.731
+Cave Hydra	Cave Hydra	2,100	2,350	0.894
+Vicious Lich	Vicious Lich	900	880	1.023
+Sharpclaw	Sharpclaw	3,000	3,300	0.909
+Magma Crystal	Magma Crystal	?	?	?
+Lava Creature	Lava Creature	0	?	?
+Giant Beaver	Giant Beaver	?	?	?
+Lava Puddle (Creature)	Lava Puddle (Creature)	?	6,000	?
+Lesser Magma Crystal	Lesser Magma Crystal	?	15,000	?
+Blocking Stalagmite	Blocking Stalagmite	?	10,500	?
+Venerable Foam Stalker	Venerable Foam Stalker	3,740	5,650	0.662
+Greater Energy Elemental	Greater Energy Elemental	950	1,100	0.864
+Greater Fire Elemental	Greater Fire Elemental	1,400	1,800	0.778
+Vile Destroyer	Vile Destroyer	2,500	3,700	0.676
+Solitary Frost Dragon	Solitary Frost Dragon	2,100	1,800	1.167
+Toxic Swarm	Toxic Swarm	0		?
+Hungry Menace	Hungry Menace	0		?
+Unchained Fire	Unchained Fire	0	?	?
+Primal Pack Beast (Sulphider)	Primal Pack Beast (Sulphider)	0	?	?
+Pirat Artillerist	Pirat Artillerist	?	?	?
+Tibianus (Creature)	Tibianus (Creature)	?	?	?
+Primal Pack Beast (Nighthunter)	Primal Pack Beast (Nighthunter)	0	?	?
+Primal Pack Beast (Mantosaurus)	Primal Pack Beast (Mantosaurus)	0	?	?
+Primal Pack Beast (Noxious Ripptor)	Primal Pack Beast (Noxious Ripptor)	0	?	?
+Primal Pack Beast (Emerald Tortoise)	Primal Pack Beast (Emerald Tortoise)	0	?	?
+Primal Pack Beast (Gore Horn)	Primal Pack Beast (Gore Horn)	0	?	?
+Primal Pack Beast (Gorerilla)	Primal Pack Beast (Gorerilla)	0	?	?
+Primal Pack Beast (Headpecker)	Primal Pack Beast (Headpecker)	0	?	?
+Primal Pack Beast (Hulking Prehemoth)	Primal Pack Beast (Hulking Prehemoth)	0	?	?
+Primal Pack Beast (Sabretooth)	Primal Pack Beast (Sabretooth)	0	?	?
+Primal Pack Beast (Stalking Stalk)	Primal Pack Beast (Stalking Stalk)	0	?	?
+Allusion	Allusion	?	?	?
+Dorokoll the Mystic	Dorokoll the Mystic	50,000	?	?
+Eshtaba the Conjurer	Eshtaba the Conjurer	50,000	?	?
+Malkhar Deathbringer	Malkhar Deathbringer	50,000	?	?
+Eliz the Unyielding	Eliz the Unyielding	50,000	?	?
+Morguthis	Morguthis	3,000	4,800	0.625
+Hard Times	Hard Times	?	?	?
+Blissful Times	Blissful Times	?	?	?
+Pillar (Zugurosh)	Pillar (Zugurosh)	0	120	0
+Sulphur Menace	Sulphur Menace	?	?	?
+The Diamond Blossom	The Diamond Blossom	10,000	20,000	0.5
+Necromantic Focus	Necromantic Focus	?	?	?
+Sulphur Geysir	Sulphur Geysir	--	--	?
+Rampaging Beer Elemental	Rampaging Beer Elemental	?	?	?
+Elite Pirat	Elite Pirat	?	?	?
+Rateye Ric	Rateye Ric	?	?	?
+Mister Catkiller	Mister Catkiller	?	?	?
+1st Mate Ratticus	1st Mate Ratticus	?	?	?
+Harpy	Harpy	5,720	7,700	0.743
+Iks Chuka	Iks Chuka	1,310	1,240	1.056
+Iks Pututu	Iks Pututu	1,390	1,310	1.061
+Iks Ahpututu	Iks Ahpututu	1,700	1,630	1.043
+Boar Man	Boar Man	7,100	9,200	0.772
+Carnivostrich	Carnivostrich	6,710	8,250	0.813
+Liodile	Liodile	6,310	8,600	0.734
+Crape Man	Crape Man	5,040	9,150	0.551
+Rhindeer	Rhindeer	5,600	8,650	0.647
+Iks Aucar	Iks Aucar	1,240	1,520	0.816
+The Monster	The Monster	30,000	45,000	0.667
+Ahau	Ahau	17,500	9,000	1.944
+Cursed Ape	Cursed Ape	2,000	1,700	1.176
+Iks Churrascan	Iks Churrascan	0	1,520	0
+Doctor Marrow	Doctor Marrow	?	?	?
+Negative Spark	Negative Spark	?	?	?
+Positive Spark	Positive Spark	?	?	?
+Dangerous Apparatus	Dangerous Apparatus			?
+Strange Machine (Creature)	Strange Machine (Creature)	?	?	?
+Black Mutagen	Black Mutagen	?	?	?
+Yellow Mutagen	Yellow Mutagen	?	?	?
+Blue Mutagen	Blue Mutagen	?	?	?
+Purple Mutagen	Purple Mutagen	?	?	?
+Green Mutagen	Green Mutagen	?	?	?
+Red Mutagen	Red Mutagen	?	?	?
+Blue Collector Unit	Blue Collector Unit	?	?	?
+Green Collector Unit	Green Collector Unit	?	?	?
+Red Collector Unit	Red Collector Unit	?	?	?
+Blue Tube	Blue Tube	?	?	?
+Green Tube	Green Tube	?	?	?
+Red Tube	Red Tube	?	?	?
+The Collection Container	The Collection Container	?	?	?
+Blue Container	Blue Container	?	?	?
+Green Container	Green Container	?	?	?
+Red Container	Red Container	?	?	?
+Lab Assistant	Lab Assistant	0	4,000	0
+Benevolent Iks Spirit	Benevolent Iks Spirit	?	?	?
+Gnomish Explorer	Gnomish Explorer	0	?	?
+Gnorre Chyllson	Gnorre Chyllson	4,000	7,150	0.559
+Lavaling	Lavaling	0	?	?
+Fireling	Fireling	0	?	?
+Basaltwall	Basaltwall	0	?	?
+Instable Lavaling	Instable Lavaling	0	?	?
+Deadly Heat	Deadly Heat	0	?	?
+Magmaoid	Magmaoid	0	?	?
+Blasting Flame	Blasting Flame	0	?	?
+Massive Magmaoid	Massive Magmaoid	0	?	?
+Banshee	Banshee	900	1,000	0.9
+Princess Lumelia	Princess Lumelia	?	?	?
+Abominable Servant	Abominable Servant	?	?	?
+Abomination Cultist	Abomination Cultist	0	?	?
+The Abomination	The Abomination	1,500,000?	750,000?	?
+Spoiler	Spoiler	?	?	?
+Festival Cake (Creature)	Festival Cake (Creature)	?	?	?
+Bot (Creature)	Bot (Creature)	?	?	?
+Font of Refreshment	Font of Refreshment	?	?	?
+Ice Barricade	Ice Barricade	0	?	?
+Hazard Golem	Hazard Golem	0	?	?
+Guardian Golem	Guardian Golem	0	2,500	0
+Ashes of Burning Hatred	Ashes of Burning Hatred	0	?	?
+Spark of Burning Hatred	Spark of Burning Hatred	0	?	?
+Flame of Burning Hatred	Flame of Burning Hatred	0	?	?
+Blaze of Burning Hatred	Blaze of Burning Hatred	0	?	?
+Clutter	Clutter	0	1,000	0
+Faun	Faun	800	900	0.889
+Smelly Cheese	Smelly Cheese	?	?	?
+Darklight Striker	Darklight Striker	22,200	29,700	0.747
+Bakragore	Bakragore	15,000,000	660,000	22.727
+Chagorz	Chagorz	3,250,000	?	?
+Vemiath	Vemiath	3,250,000	?	?
+Ichgahal	Ichgahal	3,250,000	?	?
+Murcion	Murcion	3,250,000	?	?
+Bloated Man-Maggot	Bloated Man-Maggot	21,570	31,700	0.68
+Converter	Converter	21,425	29,600	0.724
+Darklight Construct	Darklight Construct	22,050	32,200	0.685
+Darklight Emitter	Darklight Emitter	20,600	27,500	0.749
+Darklight Matter	Darklight Matter	22,250	30,150	0.738
+Darklight Source	Darklight Source	22,465	31,550	0.712
+Meandering Mushroom	Meandering Mushroom	21,980	29,100	0.755
+Mycobiontic Beetle	Mycobiontic Beetle	21,175	30,200	0.701
+Oozing Carcass	Oozing Carcass	20,980	27,500	0.763
+Oozing Corpus	Oozing Corpus	20,600	28,700	0.718
+Rotten Man-Maggot	Rotten Man-Maggot	22,625	31,100	0.727
+Sopping Carcass	Sopping Carcass	23,425	32,700	0.716
+Sopping Corpus	Sopping Corpus	22,465	33,400	0.673
+Walking Pillar	Walking Pillar	24,300	38,000	0.639
+Wandering Pillar	Wandering Pillar	23,200	37,000	0.627
+Cunning Werepanther	Cunning Werepanther	3,620	4,300	0.842
+Werepanther	Werepanther	3,550	4,200	0.845
+Feral Werecrocodile	Feral Werecrocodile	5,430	6,400	0.848
+Werecrocodile	Werecrocodile	4,140	5,280	0.784
+White Weretiger	White Weretiger	5,200	6,100	0.852
+Weretiger	Weretiger	3,920	5,000	0.784
+White Tiger	White Tiger	40	75	0.533
+Bloodjaw	Bloodjaw	24,000	40,000	0.6
+Elder Bloodjaw	Elder Bloodjaw	?	86,000	?
+Pillar of Dark Energy	Pillar of Dark Energy	?	37,500	?
+Ayana the Crimson Curse	Ayana the Crimson Curse	12,400	17,000	0.729
+Foxmouse	Foxmouse	?	?	?
+Mushroom	Mushroom	?	10,000	?
+Echo of Murcion	Echo of Murcion	?	?	?
+Echo of Chagorz	Echo of Chagorz	?	?	?
+Echo of Ichgahal	Echo of Ichgahal	?	?	?
+Echo of Vemiath	Echo of Vemiath	?	?	?
+Decaying Totem	Decaying Totem	?	?	?
+Urmahlullu the Weakened	Urmahlullu the Weakened	?	?	?
+Tamru the Black	Tamru the Black	11,200	15,500	0.723
+Radicular Totem	Radicular Totem	0	50,000	0
+Brokul	Brokul	23,000	50,000	0.46
+Werelion	Werelion	2,200	2,800	0.786
+Excess Heat	Excess Heat	0	?	?
+Wailing Widow	Wailing Widow	450	850	0.529
+The Scourge of Oblivion (Charging)	The Scourge of Oblivion (Charging)	?	?	?
+The Scourge of Oblivion (Reflective)	The Scourge of Oblivion (Reflective)	?	?	?
+Soul Cage	Soul Cage	0	?	?
+Community Manager (Creature)	Community Manager (Creature)	?	?	?
+Captured Beer	Captured Beer	?	?	?
+Strong Orger Beer	Strong Orger Beer	?	?	?
+Orc Cook	Orc Cook	?	?	?
+Megasylvan Sapling (Creature)	Megasylvan Sapling (Creature)	0	?	?
+Mindmasher (Weak)	Mindmasher (Weak)	0	?	?
+Minion of Skyrr	Minion of Skyrr	?	?	?
+Weak Spot	Weak Spot	?	?	?
+Rum Barrel	Rum Barrel	?	?	?
+The Spellstealer (Creator)	The Spellstealer (Creator)	?	?	?
+The Spellstealer (Destructor)	The Spellstealer (Destructor)	?	?	?
+Albino Dragon	Albino Dragon	2,250	5,000	0.45
+Iks Yapunac	Iks Yapunac	2,340	3,125	0.749
+Bulltaur Brute	Bulltaur Brute	4,700	6,560	0.716
+Atab	Atab	6,800	8,100	0.84
+Mitmah Vanguard	Mitmah Vanguard	300,000	65,000	4.615
+Despor	Despor		50,000	?
+Bulltaur Alchemist	Bulltaur Alchemist	4,500	5,690	0.791
+Bulltaur Forgepriest	Bulltaur Forgepriest	6,400	6,840	0.936
+Dragolisk	Dragolisk	5,050	6,180	0.817
+Wardragon	Wardragon	5,810	6,960	0.835
+Mitmah Scout	Mitmah Scout	3,230	3,940	0.82
+Mitmah Seer	Mitmah Seer	4,580	4,620	0.991
+Mega Dragon	Mega Dragon	7,810	7,920	0.986
+Titano Dragon	Titano Dragon			?
+Pirate Ship	Pirate Ship			?
+Cellar Rat	Cellar Rat	0	1,800	0
+Greedok	Greedok		50,000	?
+Vengar	Vengar		50,000	?
+Crultor	Crultor		50,000	?
+Maliz	Maliz		50,000	?
+Vilear	Vilear		50,000	?
+Bruton	Bruton		50,000	?
+Mystic Jaguar	Mystic Jaguar			?
+Ritualwater	Ritualwater	?	?	?
+Ancient Ugly Monster	Ancient Ugly Monster	?	10,000	?
+Dragon Hoard	Dragon Hoard	600,000	50,000	12
+Sabretooth (Creature)	Sabretooth (Creature)	11,931	17,300	0.69
+Rabid Wolf	Rabid Wolf	90	75	1.2
+Ragged Rabid Wolf	Ragged Rabid Wolf	126	120	1.05
+Trollwut	Trollwut	250	280	0.893
+Captain Jones	Captain Jones	620	555	1.117
+Gorga	Gorga	13,000	15,000	0.867

@@ -1,0 +1,508 @@
+Step	Kills	Name
+1	7 x	Acid Blob
+4	8 x	Acolyte Of Darkness
+1	7 x	Acolyte Of The Cult
+1	9 x	Adept Of The Cult
+4	5,440 x	Adult Goanna
+1	1 x	Adventurer
+1	94 x	Afflicted Strider
+4	505 x	Amazon
+2	159 x	Ancient Scarab
+1	9 x	Animated Feather
+1	1 x	Animated Snowman
+4	4,665 x	Arachnophobica
+1	3 x	Askarak Demon
+4	580 x	Assassin
+2	73 x	Azure Frog
+4	354 x	Badger
+4	648 x	Bandit
+4	46 x	Bane Bringer
+4	5 x	Bane Of Light
+2	292 x	Banshee
+4	1,013 x	Barbarian Bloodwalker
+4	537 x	Barbarian Brutetamer
+4	857 x	Barbarian Headsplitter
+4	821 x	Barbarian Skullhunter
+4	1,046 x	Barkless Devotee
+4	1,045 x	Barkless Fanatic
+4	303 x	Bat
+1	15 x	Bear
+4	2,150 x	Behemoth
+2	101 x	Betrayed Wraith
+4	8,078 x	Biting Book
+4	3,686 x	Black Sphinx Acolyte
+2	218 x	Blemished Spawn
+2	154 x	Blightwalker
+4	1,249 x	Blood Beast
+2	88 x	Blood Crab
+1	1 x	Blood Priest
+1	23 x	Boar
+2	34 x	Bog Frog
+2	81 x	Bog Raider
+4	1,001 x	Bonebeast
+1	6 x	Bonelord
+4	631,909 x	Bony Sea Devil
+1	2 x	Boogy
+4	426,209 x	Brachiodemon
+4	54,936 x	Brain Squid
+4	1,511,097 x	Branchy Crawler
+4	2,571 x	Breach Brood
+4	8 x	Bride Of Night
+2	170 x	Brimstone Bug
+1	2 x	Broken Shaper
+2	33 x	Bug
+4	194,470 x	Burning Book
+4	8,809 x	Burning Gladiator
+4	3,230 x	Burster Spectre
+1	1 x	Butterfly
+2	8 x	Butterfly
+4	8 x	Cake Golem
+2	84 x	Calamary
+4	530,783 x	Capricious Phantom
+1	13 x	Carniphila
+2	43 x	Carrion Worm
+1	3 x	Cat
+1	32 x	Cave Chimera
+1	4 x	Cave Devourer
+1	2 x	Cave Parrot
+4	424 x	Cave Rat
+3	257 x	Centipede
+4	500 x	Chakoya Toolshaper
+4	569 x	Chakoya Tribewarden
+2	215 x	Chakoya Windcaller
+1	28 x	Chasm Spawn
+2	17 x	Chicken
+4	2,501 x	Choking Fear
+1	16 x	Cliff Strider
+4	63,578 x	Cloak Of Terror
+3	260 x	Cobra
+1	48 x	Cobra Assassin
+1	13 x	Cobra Scout
+1	14 x	Cobra Vizier
+2	61 x	Coral Frog
+2	33 x	Corym Charlatan
+1	26 x	Corym Skirmisher
+1	5 x	Corym Vanguard
+4	35,302 x	Courage Leech
+2	39 x	Crab
+4	2,942 x	Crazed Summer Rearguard
+4	2,500 x	Crazed Summer Vanguard
+4	2,500 x	Crazed Winter Rearguard
+4	2,790 x	Crazed Winter Vanguard
+2	50 x	Crimson Frog
+4	797 x	Crocodile
+4	507 x	Crypt Shambler
+1	8 x	Crypt Warden
+4	1,006 x	Crystal Spider
+4	5 x	Crystal Wolf
+1	2 x	Crystalcrusher
+1	2 x	Cursed Book
+2	147 x	Cursed Prospector
+4	500 x	Cyclops
+2	281 x	Cyclops Drone
+2	188 x	Cyclops Smith
+3	287 x	Damaged Crystal Golem
+2	25 x	Dark Apprentice
+1	18 x	Dark Magician
+4	515 x	Dark Monk
+4	3,542 x	Dark Torturer
+4	8,595 x	Darklight Matter
+4	5,541 x	Darklight Source
+4	9,956 x	Darklight Striker
+4	2,502 x	Dawnfire Asura
+1	3 x	Death Blob
+1	7 x	Deathling Scout
+1	4 x	Deepling Elite
+4	1,080 x	Deepling Guard
+2	120 x	Deepling Master Librarian
+2	69 x	Deepling Scout
+4	1,930 x	Deepling Spellsinger
+1	93 x	Deepling Tyrant
+4	1,301 x	Deepling Warrior
+2	862 x	Deepworm
+2	85 x	Deer
+4	17,922 x	Defiler
+3	1,066 x	Demon
+4	2,501 x	Demon Outcast
+4	1,459 x	Demon Skeleton
+4	1,819 x	Destroyer
+4	2,911 x	Devourer
+4	5 x	Diamond Servant
+4	1,062 x	Diamond Servant Replica
+1	1 x	Dire Penguin
+4	2,522 x	Diremaw
+1	164 x	Distorted Phantom
+1	4 x	Dog
+4	6 x	Doomsday Cultist
+2	173 x	Dragon
+4	1,118 x	Dragon Lord
+1	4 x	Dragon Lord Hatchling
+1	29 x	Draken Abomination
+1	22 x	Draken Elite
+2	734 x	Draken Spellweaver
+4	1,055 x	Draken Warmaster
+4	2,686 x	Dread Intruder
+4	2,484 x	Drillworm
+1	131 x	Druid's Apparition
+4	5 x	Dryad
+4	6 x	Duskbringer
+1	6 x	Dwarf
+1	3 x	Dwarf Guard
+1	22 x	Dwarf Soldier
+4	513 x	Dworc Fleshhunter
+4	503 x	Dworc Venomsniper
+2	175 x	Dworc Voodoomaster
+2	88 x	Earth Elemental
+1	12 x	Elder Bonelord
+2	917 x	Elder Wyrm
+1	13 x	Elephant
+2	27 x	Elf
+1	15 x	Elf Arcanist
+4	5 x	Elf Overseer
+1	23 x	Elf Scout
+1	2 x	Emerald Tortoise
+4	51,359 x	Energetic Book
+4	33,937 x	Energuardian Of Tales
+4	1,004 x	Enfeebled Silencer
+1	23 x	Enlightened Of The Cult
+4	1,000 x	Enraged Crystal Golem
+3	545 x	Enslaved Dwarf
+4	1,000 x	Eternal Guardian
+3	552 x	Execowtioner
+2	134 x	Eyeless Devourer
+4	30,287 x	Falcon Knight
+4	20,728 x	Falcon Paladin
+4	2,815 x	Feral Sphinx
+2	31 x	Feverish Citizen
+1	7 x	Fire Devil
+4	1,009 x	Fire Elemental
+4	501 x	Firestarter
+4	255 x	Fish
+2	40 x	Flamingo
+4	16,603 x	Flimsy Lost Soul
+1	10 x	Floating Savant
+4	2,325 x	Flying Book
+2	106 x	Foam Stalker
+2	12 x	Fox
+4	2,643 x	Frazzlemaw
+2	599 x	Freakish Lost Soul
+1	4 x	Frost Dragon
+1	3 x	Frost Dragon Hatchling
+2	282 x	Frost Flower Asura
+4	515 x	Frost Giant
+4	500 x	Frost Giantess
+4	274 x	Frost Troll
+4	2,651 x	Fury
+1	2 x	Gargoyle
+4	2,501 x	Gazer Spectre
+1	3 x	Ghastly Dragon
+4	614 x	Ghost
+1	11 x	Ghost Wolf
+4	817 x	Ghoul
+4	1,018 x	Giant Spider
+1	69 x	Girtablilu Warrior
+1	6 x	Gloom Wolf
+4	6,204 x	Glooth Anemone
+4	1,706 x	Glooth Bandit
+4	1,074 x	Glooth Blob
+4	1,645 x	Glooth Brigand
+4	2,750 x	Glooth Golem
+4	505 x	Gnarlhound
+4	299 x	Goblin
+1	5 x	Goblin Assassin
+4	5 x	Goblin Leader
+2	43 x	Goblin Scavenger
+4	6 x	Golden Servant
+4	1,054 x	Golden Servant Replica
+1	7 x	Gozzler
+1	41 x	Gravedigger
+1	7 x	Green Frog
+4	4,487 x	Grim Reaper
+4	233,460 x	Grimeleech
+4	11 x	Grynch Clan Goblin
+4	54,175 x	Guardian Of Tales
+4	2,578 x	Guzzlemaw
+1	4 x	Hand Of Cursed Fate
+4	1,026 x	Haunted Treeling
+4	3,520 x	Hellfire Fighter
+4	96,469 x	Hellflayer
+4	2,572 x	Hellhound
+4	3,764 x	Hellspawn
+4	8 x	Herald Of Gloom
+4	1,010 x	Hero
+2	233 x	Hibernal Moth
+1	57 x	Hideous Fungus
+2	65 x	High Voltage Elemental
+2	287 x	Humongous Fungus
+2	25 x	Hunter
+1	1 x	Husky
+3	313 x	Hyaena
+4	1,016 x	Hydra
+4	1,005 x	Ice Golem
+2	127 x	Ice Witch
+1	41 x	Icecold Book
+4	124,624 x	Infernal Demon
+4	88,985 x	Infernal Phantom
+1	2 x	Infernalist
+4	13,469 x	Ink Blob
+3	1,083 x	Insane Siren
+1	20 x	Insect Swarm
+1	2 x	Instable Breach Brood
+4	14 x	Iron Servant
+4	1,002 x	Iron Servant Replica
+1	15 x	Ironblight
+1	5 x	Island Troll
+2	213 x	Jellyfish
+4	4,096 x	Juggernaut
+1	3 x	Jungle Moa
+1	133 x	Knight's Apparition
+4	35,859 x	Knowledge Elemental
+4	517 x	Kongra
+2	141 x	Lacewing Moth
+1	11 x	Lamassu
+4	555 x	Larva
+1	30 x	Lava Golem
+1	11 x	Lava Lurker
+2	281 x	Lavafungus
+2	397 x	Lavaworm
+1	26 x	Lich
+3	339 x	Lion
+4	1,026 x	Lizard Chosen
+2	264 x	Lizard Dragon Priest
+4	1,031 x	Lizard High Guard
+2	451 x	Lizard Legionnaire
+2	58 x	Lizard Zaogun
+4	1,834 x	Lost Basher
+2	146 x	Lost Berserker
+4	1,487 x	Lost Husher
+2	260 x	Lost Soul
+4	1,547 x	Lost Thrower
+4	1,406 x	Lumbering Carnivor
+1	22 x	Mad Scientist
+1	27 x	Magma Crawler
+1	1 x	Makara
+4	556 x	Mammoth
+2	338 x	Manta Ray
+3	2,251 x	Manticore
+2	268 x	Many Faces
+1	5 x	Marsh Stalker
+1	2 x	Massive Energy Elemental
+2	149 x	Massive Fire Elemental
+4	1,246 x	Massive Water Elemental
+4	5,711 x	Mean Lost Soul
+4	383,972 x	Meandering Mushroom
+3	1,383 x	Medusa
+4	2,613 x	Menacing Carnivor
+2	213 x	Merlkin
+4	1,330 x	Metal Gargoyle
+4	2,654 x	Midnight Asura
+0	0 x	Midnight Panther
+4	6 x	Midnight Spawn
+4	5 x	Midnight Warrior
+4	562 x	Minotaur
+2	579 x	Minotaur Amazon
+4	527 x	Minotaur Archer
+4	790 x	Minotaur Guard
+4	1,024 x	Minotaur Hunter
+2	320 x	Minotaur Invader
+4	509 x	Minotaur Mage
+2	193 x	Monk
+4	1,801 x	Mooh'tah Warrior
+3	568 x	Moohtant
+4	760,759 x	Mould Phantom
+2	140 x	Mummy
+1	2 x	Mutated Bat
+2	61 x	Necromancer
+4	8 x	Nightfiend
+4	83,976 x	Nighthunter
+2	63 x	Nightmare
+4	1,109 x	Nightmare Scion
+4	7 x	Nightslayer
+2	30 x	Nomad
+4	29 x	Northern Pike
+1	5 x	Novice Of The Cult
+1	2 x	Ogre Brute
+1	1 x	Ogre Rowdy
+4	450,581 x	Oozing Carcass
+2	77 x	Orc
+1	37 x	Orc Berserker
+1	1 x	Orc Cult Inquisitor
+1	2 x	Orc Cult Minion
+1	1 x	Orc Cult Priest
+1	10 x	Orc Leader
+1	27 x	Orc Marauder
+1	2 x	Orc Rider
+2	54 x	Orc Shaman
+2	242 x	Orc Spearman
+1	1 x	Orc Warlord
+2	242 x	Orc Warrior
+2	33 x	Orchid Frog
+1	4 x	Orclops Doomhauler
+1	1 x	Orclops Ravager
+1	14 x	Orewalker
+1	138 x	Paladin's Apparition
+1	9 x	Panda
+1	7 x	Parder
+4	251 x	Penguin
+1	9 x	Phantasm
+1	3 x	Pig
+2	94 x	Pirate Buccaneer
+1	8 x	Pirate Corsair
+2	171 x	Pirate Cutthroat
+1	1 x	Pirate Ghost
+4	515 x	Pirate Marauder
+1	15 x	Pirate Skeleton
+4	192,602 x	Plaguesmith
+1	4 x	Poacher
+4	518 x	Poison Spider
+4	504 x	Polar Bear
+1	24 x	Priestess
+4	7,071 x	Priestess Of The Wild Sun
+4	1,066 x	Putrid Mummy
+1	34 x	Quara Constrictor
+4	1,005 x	Quara Constrictor Scout
+4	1,015 x	Quara Hydromancer
+3	545 x	Quara Hydromancer Scout
+1	47 x	Quara Mantassin
+4	864 x	Quara Mantassin Scout
+4	1,007 x	Quara Pincher
+4	1,010 x	Quara Pincher Scout
+4	1,521 x	Quara Predator
+4	1,015 x	Quara Predator Scout
+2	44 x	Rabbit
+4	192,838 x	Rage Squid
+4	20 x	Raging Fire
+4	278 x	Rat
+2	64 x	Ravenous Lava Lurker
+4	2,942 x	Reality Reaver
+2	291 x	Renegade Knight
+4	2,613 x	Retching Horror
+2	340 x	Ripper Spectre
+4	1,254 x	Rot Elemental
+4	967,510 x	Rotten Golem
+4	313,286 x	Rotten Man-maggot
+4	520 x	Rotworm
+4	2,131 x	Rustheap Golem
+4	282 x	Sandcrawler
+4	501 x	Scarab
+4	1,031 x	Scorpion
+4	1,000 x	Sea Serpent
+2	20 x	Seagull
+4	1,093 x	Serpent Spawn
+1	19 x	Shaburak Demon
+4	7 x	Shadow Hound
+1	14 x	Shadow Pupil
+2	79 x	Shark
+2	140 x	Shock Head
+4	550 x	Sibang
+4	2,318 x	Silencer
+4	271 x	Silver Rabbit
+2	164 x	Skeleton
+1	4 x	Skeleton Elite Warrior
+1	12 x	Skeleton Warrior
+4	262 x	Skunk
+2	115 x	Slime
+4	517 x	Slug
+4	508 x	Smuggler
+3	188 x	Snake
+4	244,351 x	Sopping Carcass
+1	140 x	Sorcerer's Apparition
+2	871 x	Soul-broken Harbinger
+4	1,239 x	Souleater
+4	2,613 x	Sparkion
+4	4,500 x	Spectre
+1	7 x	Sphinx
+4	256 x	Spider
+4	2,500 x	Spiky Carnivor
+2	185 x	Spit Nettle
+1	27 x	Squid Warden
+1	2 x	Squirrel
+4	1,000 x	Stabilizing Dread Intruder
+4	1,040 x	Stabilizing Reality Reaver
+4	540 x	Stalker
+4	40,288 x	Stalking Stalk
+1	1 x	Starving Wolf
+1	8 x	Stone Devourer
+4	500 x	Stone Golem
+4	1,000 x	Stonerefiner
+2	367 x	Streaked Devourer
+4	79,163 x	Sulphider
+4	40,385 x	Sulphur Spouter
+4	505 x	Swamp Troll
+1	3 x	Swampling
+1	2 x	Swan Maiden
+4	725 x	Tarantula
+1	3 x	Tarnished Spirit
+1	2 x	Terramite
+2	40 x	Terror Bird
+3	1,424 x	Thanatursus
+4	500 x	Thornback Tortoise
+4	5 x	Thornfire Wolf
+1	6 x	Tiger
+4	500 x	Toad
+4	873 x	Tortoise
+1	26 x	Tremendous Tyrant
+1	6 x	Troll
+2	139 x	True Dawnfire Asura
+1	8 x	True Frost Flower Asura
+2	151 x	True Midnight Asura
+1	10 x	Tunnel Tyrant
+4	765,121 x	Turbulent Elemental
+1	2 x	Twisted Shaper
+2	225 x	Two-headed Turtle
+1	1 x	Undead Cavebear
+1	3 x	Undead Elite Gladiator
+4	1,005 x	Undead Gladiator
+1	4 x	Undead Mine Worker
+1	2 x	Undead Prospector
+4	79,204 x	Undertaker
+1	3 x	Usurper Archer
+1	6 x	Usurper Knight
+1	3 x	Usurper Warlock
+2	103 x	Valkyrie
+1	21 x	Vampire
+1	2 x	Vampire Bride
+1	3 x	Vampire Viscount
+1	41 x	Varnished Diremaw
+1	28 x	Venerable Girtablilu
+4	9,672 x	Vexclaw
+3	4,103 x	Vibrant Phantom
+4	7 x	Vicious Manbat
+4	1,206 x	Vicious Squire
+2	134 x	Vile Grandmaster
+3	1,347 x	Vulcongra
+2	201 x	Wailing Widow
+2	91 x	Walker
+4	7,079 x	Walking Pillar
+4	1,132 x	War Golem
+1	20 x	War Wolf
+4	367 x	Wasp
+4	5 x	Water Buffalo
+4	1,002 x	Water Elemental
+4	1,759 x	Weakened Frazzlemaw
+1	24 x	Weeper
+4	1,026 x	Werebadger
+4	1,174 x	Werebear
+4	1,207 x	Wereboar
+4	1,002 x	Werefox
+4	1,012 x	Werehyaena
+2	358 x	Werehyaena Shaman
+1	3 x	Werelion
+1	2 x	Werelioness
+4	1,316 x	Werewolf
+1	2 x	White Lion
+1	1 x	White Shade
+1	1 x	Wiggler
+4	594 x	Wild Warrior
+4	284 x	Winter Wolf
+1	1 x	Wisp
+2	28 x	Witch
+4	290 x	Wolf
+2	298 x	Worker Golem
+4	1,060 x	Worm Priestess
+4	1,484 x	Wyrm
+1	6 x	Wyvern
+4	1,000 x	Yielothax
+4	5,266 x	Young Goanna
+4	1,153 x	Young Sea Serpent
+1	3 x	Zombie
